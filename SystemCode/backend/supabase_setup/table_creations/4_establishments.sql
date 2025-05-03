@@ -1,0 +1,20 @@
+create table public.establishments (
+  id serial not null,
+  subzone text null,
+  planning_area text null,
+  region text null,
+  latitude double precision not null,
+  longitude double precision not null,
+  original_type text null,
+  rank integer null,
+  venue_name text not null,
+  venue_address text null,
+  venue_id text null,
+  avg_weekday_footfall double precision null,
+  avg_weekend_footfall double precision null,
+  created_at timestamp without time zone null default CURRENT_TIMESTAMP,
+  updated_at timestamp without time zone null default CURRENT_TIMESTAMP,
+  venue_type text null,
+  constraint establishment_pkey primary key (id),
+  constraint unique_venue_lat_lon unique (venue_name, latitude, longitude)
+) TABLESPACE pg_default;

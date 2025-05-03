@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "name": "food and beverage",
+      "subcategories": [
+        "cafes",
+        "restaurants",
+        "fast food",
+        "nightlife"
+      ]
+    },
+    {
+      "name": "retail",
+      "subcategories": [
+        "fashion",
+        "electronics",
+        "specialty stores"
+      ]
+    },
+    {
+      "name": "health and wellness",
+      "subcategories": [
+        "salon and spas",
+        "personal care",
+        "fitness"
+      ]
+    },
+    {
+      "name": "education and workspaces",
+      "subcategories": [
+        "tuition and schools",
+        "coworking spaces"
+      ]
+    },
+    {
+      "name": "services",
+      "subcategories": [
+        "consulting",
+        "logistics",
+        "pet services"
+      ]
+    }
+  ],
+  "subcategories": {
+    "cafes": ["CAFE", "COFFEE", "BAKERY"],
+    "restaurants": ["RESTAURANT"],
+    "fast food": ["FAST_FOOD"],
+    "nightlife": ["CLUBS"],
+
+    "fashion": ["APPAREL"],
+    "electronics": ["ELECTRONICS_STORE"],
+    "specialty stores": ["SHOPPING"],
+
+    "salon and spas": ["SPA", "PERSONAL_CARE"],
+    "personal care": ["PERSONAL_CARE"],
+    "fitness": ["SPORTS_COMPLEX"],
+
+    "tuition and schools": ["SCHOOL"],
+    "coworking spaces": ["COWORKING_SPACE"],
+
+    "consulting": ["OFFICE"],
+    "logistics": ["LOGISTICS_SERVICE"],
+    "pet services": ["PET_STORE"]
+  }
+}

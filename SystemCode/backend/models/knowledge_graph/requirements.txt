@@ -1,0 +1,23 @@
+# Core dependencies
+neo4j==5.18.0
+supabase==1.2.0
+PyYAML==6.0.1
+python-dotenv==1.0.1
+tqdm==4.66.2
+pytest==7.4.3
+folium
+graphviz
+
+# Point pip at PyTorch’s CPU‑only wheels
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+
+# Point pip at PyG’s matching CPU wheels
+--find-links https://data.pyg.org/whl/torch-2.6.0+cpu.html
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch-geometric

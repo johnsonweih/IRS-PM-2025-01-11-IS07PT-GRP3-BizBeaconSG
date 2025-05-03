@@ -1,0 +1,4 @@
+
+ALTER TABLE public.competitor_stats
+ADD CONSTRAINT competitor_stats_subzone_venue_type_unique
+UNIQUE (subzone, venue_type);

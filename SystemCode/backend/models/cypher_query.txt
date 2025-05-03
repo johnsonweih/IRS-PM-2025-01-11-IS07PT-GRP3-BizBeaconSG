@@ -1,0 +1,99 @@
+"index query"
+CREATE FULLTEXT INDEX entity_index IF NOT EXISTS
+FOR (n:PlanningArea|VenueType|Competitor|AgeDistribution|HousingProfile|PopulationStats)
+ON EACH [n.subzone, n.type_name, n.venue_name]
+
+"Without Attributes"
+CALL db.index.fulltext.queryNodes("entity_index", "TANJONG PAGAR", {limit:6})
+YIELD node, score
+CALL {
+  WITH node
+  // Outgoing relationships
+  MATCH (node)-[r]->(neighbor)
+  WHERE NOT type(r) = "MENTIONS"
+  RETURN 
+    "From " + 
+      coalesce(node.venue_name, node.subzone, node.type_name, head(labels(node))) +
+      " [" + head(labels(node)) + "] - " + 
+      type(r) + " -> " +
+      coalesce(neighbor.venue_name, neighbor.subzone, neighbor.type_name, head(labels(neighbor))) +
+      " [" + head(labels(neighbor)) + "]" AS output
+  UNION ALL
+  WITH node
+  // Incoming relationships
+  MATCH (node)<-[r]-(neighbor)
+  WHERE NOT type(r) = "MENTIONS"
+  RETURN 
+    "From " + 
+      coalesce(neighbor.venue_name, neighbor.subzone,neighbor.type_name, head(labels(neighbor))) +
+      " [" + head(labels(neighbor)) + "] - " + 
+      type(r) + " -> " +
+      coalesce(node.venue_name, node.subzone,node.type_name, head(labels(node))) +
+      " [" + head(labels(node)) + "]" AS output
+}
+RETURN output LIMIT 50;
+
+
+
+"With Attributes"
+CALL db.index.fulltext.queryNodes("entity_index", "TANJONG PAGAR", {limit:4})
+YIELD node, score
+CALL {
+  WITH node
+  MATCH (node)-[r]->(neighbor)
+  WHERE NOT type(r) = "MENTIONS"
+  RETURN {
+    relationshipString: "From " + coalesce(node.venue_name, node.subzone, node.type_name, head(labels(node))) +
+                          " [" + head(labels(node)) + "] - " + type(r) + " -> " +
+                          coalesce(neighbor.venue_name, neighbor.subzone, neighbor.type_name, head(labels(neighbor))) +
+                          " [" + head(labels(neighbor)) + "]",
+    from: {
+      label: head(labels(node)),
+      venue_name: node.venue_name,
+      subzone: node.subzone,
+      type_name: node.type_name,
+      properties: node
+    },
+    relationship: {
+      type: type(r),
+      properties: r
+    },
+    to: {
+      label: head(labels(neighbor)),
+      venue_name: neighbor.venue_name,
+      subzone: neighbor.subzone,
+      type_name: neighbor.type_name,
+      properties: neighbor
+    }
+  } AS details
+  UNION ALL
+  WITH node
+  MATCH (node)<-[r]-(neighbor)
+  WHERE NOT type(r) = "MENTIONS"
+  RETURN {
+    relationshipString: "From " + coalesce(neighbor.venue_name, neighbor.subzone, neighbor.type_name, head(labels(neighbor))) +
+                          " [" + head(labels(neighbor)) + "] - " + type(r) + " -> " +
+                          coalesce(node.venue_name, node.subzone, node.type_name, head(labels(node))) +
+                          " [" + head(labels(node)) + "]",
+    from: {
+      label: head(labels(neighbor)),
+      venue_name: neighbor.venue_name,
+      subzone: neighbor.subzone,
+      type_name: neighbor.type_name,
+      properties: neighbor
+    },
+    relationship: {
+      type: type(r),
+      properties: r
+    },
+    to: {
+      label: head(labels(node)),
+      venue_name: node.venue_name,
+      subzone: node.subzone,
+      type_name: node.type_name,
+      properties: node
+    }
+  } AS details
+}
+RETURN details
+LIMIT 50;

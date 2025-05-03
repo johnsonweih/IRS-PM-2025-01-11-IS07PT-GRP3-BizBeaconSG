@@ -1,0 +1,2990 @@
+[
+  {
+    "subzone": "DEPOT ROAD",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.80125689818,
+    "max_longitude": 103.817736334915,
+    "min_latitude": 1.28003747873544,
+    "max_latitude": 1.28410255037094
+  },
+  {
+    "subzone": "BUKIT MERAH",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.813055974868,
+    "max_longitude": 103.823718606766,
+    "min_latitude": 1.27882087293724,
+    "max_latitude": 1.28514928322875
+  },
+  {
+    "subzone": "CHINATOWN",
+    "planning_area": "OUTRAM",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.839596021287,
+    "max_longitude": 103.849187864849,
+    "min_latitude": 1.27415461218813,
+    "max_latitude": 1.28524827271457
+  },
+  {
+    "subzone": "PHILLIP",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.847183312105,
+    "max_longitude": 103.849947738611,
+    "min_latitude": 1.28390796817628,
+    "max_latitude": 1.28641468933831
+  },
+  {
+    "subzone": "RAFFLES PLACE",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.848523006124,
+    "max_longitude": 103.853211868892,
+    "min_latitude": 1.28077114754531,
+    "max_latitude": 1.28650593484075
+  },
+  {
+    "subzone": "CHINA SQUARE",
+    "planning_area": "OUTRAM",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.844002510241,
+    "max_longitude": 103.8496564545,
+    "min_latitude": 1.28220961254215,
+    "max_latitude": 1.28651667838662
+  },
+  {
+    "subzone": "TIONG BAHRU",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.827487366926,
+    "max_longitude": 103.835974522656,
+    "min_latitude": 1.27907063158226,
+    "max_latitude": 1.28740031867398
+  },
+  {
+    "subzone": "BAYFRONT SUBZONE",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.855213569956,
+    "max_longitude": 103.861589647121,
+    "min_latitude": 1.27804260794226,
+    "max_latitude": 1.28788844095864
+  },
+  {
+    "subzone": "TIONG BAHRU STATION",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.823718606766,
+    "max_longitude": 103.829490502174,
+    "min_latitude": 1.28001346333425,
+    "max_latitude": 1.28812398702608
+  },
+  {
+    "subzone": "CLIFFORD PIER",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.85200343548,
+    "max_longitude": 103.858205043896,
+    "min_latitude": 1.28172200828119,
+    "max_latitude": 1.28821146738489
+  },
+  {
+    "subzone": "MARINA SOUTH",
+    "planning_area": "MARINA SOUTH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.858426183958,
+    "max_longitude": 103.872516358993,
+    "min_latitude": 1.27283767831159,
+    "max_latitude": 1.28884988006674
+  },
+  {
+    "subzone": "NICOLL",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.859423397836,
+    "max_longitude": 103.869081503756,
+    "min_latitude": 1.29386665174455,
+    "max_latitude": 1.30436397576577
+  },
+  {
+    "subzone": "MARINA EAST",
+    "planning_area": "MARINA EAST",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.864452051454,
+    "max_longitude": 103.881090228388,
+    "min_latitude": 1.28045855477327,
+    "max_latitude": 1.29552193193143
+  },
+  {
+    "subzone": "INSTITUTION HILL",
+    "planning_area": "RIVER VALLEY",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.832593877108,
+    "max_longitude": 103.84214056639,
+    "min_latitude": 1.2909668660564,
+    "max_latitude": 1.29629142391699
+  },
+  {
+    "subzone": "ROBERTSON QUAY",
+    "planning_area": "SINGAPORE RIVER",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.83033814742,
+    "max_longitude": 103.843746336317,
+    "min_latitude": 1.28686010484024,
+    "max_latitude": 1.29631112454712
+  },
+  {
+    "subzone": "JURONG ISLAND AND BUKOM",
+    "planning_area": "WESTERN ISLANDS",
+    "region": "WEST REGION",
+    "min_longitude": 103.653725125507,
+    "max_longitude": 103.779073113153,
+    "min_latitude": 1.21621458981212,
+    "max_latitude": 1.2973631724667
+  },
+  {
+    "subzone": "FORT CANNING",
+    "planning_area": "MUSEUM",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.841936624117,
+    "max_longitude": 103.849572174546,
+    "min_latitude": 1.29008249009334,
+    "max_latitude": 1.29741977815719
+  },
+  {
+    "subzone": "PEARL'S HILL",
+    "planning_area": "OUTRAM",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.834758273172,
+    "max_longitude": 103.845304498129,
+    "min_latitude": 1.28174399041853,
+    "max_latitude": 1.28919114698307
+  },
+  {
+    "subzone": "BOAT QUAY",
+    "planning_area": "SINGAPORE RIVER",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.845304498129,
+    "max_longitude": 103.85081600412,
+    "min_latitude": 1.28543499416558,
+    "max_latitude": 1.28981919274558
+  },
+  {
+    "subzone": "HENDERSON HILL",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.81896841882,
+    "max_longitude": 103.826213044573,
+    "min_latitude": 1.28188522231965,
+    "max_latitude": 1.29116924028884
+  },
+  {
+    "subzone": "REDHILL",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.814158838377,
+    "max_longitude": 103.819871719961,
+    "min_latitude": 1.28375729134489,
+    "max_latitude": 1.29152266860862
+  },
+  {
+    "subzone": "ALEXANDRA HILL",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.801590136596,
+    "max_longitude": 103.816145692633,
+    "min_latitude": 1.28305666218929,
+    "max_latitude": 1.29249212331194
+  },
+  {
+    "subzone": "BUKIT HO SWEE",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.825512734945,
+    "max_longitude": 103.83506234537,
+    "min_latitude": 1.28601217953523,
+    "max_latitude": 1.29271979063466
+  },
+  {
+    "subzone": "CLARKE QUAY",
+    "planning_area": "SINGAPORE RIVER",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.84120988306,
+    "max_longitude": 103.848271093541,
+    "min_latitude": 1.28651667838662,
+    "max_latitude": 1.29303528930324
+  },
+  {
+    "subzone": "PASIR PANJANG 1",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.76737037986,
+    "max_longitude": 103.787744233852,
+    "min_latitude": 1.27833216350166,
+    "max_latitude": 1.29371674538228
+  },
+  {
+    "subzone": "QUEENSWAY",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.792792076135,
+    "max_longitude": 103.804354633046,
+    "min_latitude": 1.28410255037094,
+    "max_latitude": 1.29377443881266
+  },
+  {
+    "subzone": "MARINA EAST (MP)",
+    "planning_area": "MARINE PARADE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.875420895316,
+    "max_longitude": 103.898803515157,
+    "min_latitude": 1.28483922420557,
+    "max_latitude": 1.29746210637663
+  },
+  {
+    "subzone": "SUDONG",
+    "planning_area": "WESTERN ISLANDS",
+    "region": "WEST REGION",
+    "min_longitude": 103.707106320408,
+    "max_longitude": 103.742581079737,
+    "min_latitude": 1.15869870063221,
+    "max_latitude": 1.21349073208073
+  },
+  {
+    "subzone": "SEMAKAU",
+    "planning_area": "WESTERN ISLANDS",
+    "region": "WEST REGION",
+    "min_longitude": 103.755346532115,
+    "max_longitude": 103.801554897105,
+    "min_latitude": 1.18829781291127,
+    "max_latitude": 1.21741064173668
+  },
+  {
+    "subzone": "SOUTHERN GROUP",
+    "planning_area": "SOUTHERN ISLANDS",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.831680834872,
+    "max_longitude": 103.862762922041,
+    "min_latitude": 1.21232570435503,
+    "max_latitude": 1.24555510435752
+  },
+  {
+    "subzone": "SENTOSA",
+    "planning_area": "SOUTHERN ISLANDS",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.806698403633,
+    "max_longitude": 103.848423497612,
+    "min_latitude": 1.2378010518099,
+    "max_latitude": 1.26020056157657
+  },
+  {
+    "subzone": "CITY TERMINALS",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.823734249057,
+    "max_longitude": 103.852069900152,
+    "min_latitude": 1.25480839877668,
+    "max_latitude": 1.27510146874389
+  },
+  {
+    "subzone": "ANSON",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.841371815783,
+    "max_longitude": 103.846137640401,
+    "min_latitude": 1.27256375557071,
+    "max_latitude": 1.27569373963363
+  },
+  {
+    "subzone": "STRAITS VIEW",
+    "planning_area": "STRAITS VIEW",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.851564418279,
+    "max_longitude": 103.866428535583,
+    "min_latitude": 1.26469941314553,
+    "max_latitude": 1.27804260794226
+  },
+  {
+    "subzone": "MARITIME SQUARE",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.799210086843,
+    "max_longitude": 103.826482939285,
+    "min_latitude": 1.25831209892566,
+    "max_latitude": 1.27833156286839
+  },
+  {
+    "subzone": "TELOK BLANGAH RISE",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.819524981353,
+    "max_longitude": 103.829045796678,
+    "min_latitude": 1.26986805549015,
+    "max_latitude": 1.27862964965724
+  },
+  {
+    "subzone": "TANJONG PAGAR",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.843823603465,
+    "max_longitude": 103.848146553957,
+    "min_latitude": 1.27338758367636,
+    "max_latitude": 1.27916043190735
+  },
+  {
+    "subzone": "EVERTON PARK",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.829045796678,
+    "max_longitude": 103.842154517048,
+    "min_latitude": 1.27239329468522,
+    "max_latitude": 1.27976258246599
+  },
+  {
+    "subzone": "TELOK BLANGAH WAY",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.816694987717,
+    "max_longitude": 103.823720658573,
+    "min_latitude": 1.27460432274932,
+    "max_latitude": 1.28043473155531
+  },
+  {
+    "subzone": "MAXWELL",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.844051122218,
+    "max_longitude": 103.847225794937,
+    "min_latitude": 1.27704744417562,
+    "max_latitude": 1.28134044073723
+  },
+  {
+    "subzone": "CECIL",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.846811401294,
+    "max_longitude": 103.851082048005,
+    "min_latitude": 1.27513746990643,
+    "max_latitude": 1.2818142391445
+  },
+  {
+    "subzone": "KAMPONG TIONG BAHRU",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.822087666047,
+    "max_longitude": 103.83402220816,
+    "min_latitude": 1.27510146874389,
+    "max_latitude": 1.28188522231965
+  },
+  {
+    "subzone": "TELOK BLANGAH DRIVE",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.80196303673,
+    "max_longitude": 103.817494849843,
+    "min_latitude": 1.27082933511029,
+    "max_latitude": 1.28212414896702
+  },
+  {
+    "subzone": "PASIR PANJANG 2",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.78578607764,
+    "max_longitude": 103.80307872309,
+    "min_latitude": 1.27269417847437,
+    "max_latitude": 1.28240789831256
+  },
+  {
+    "subzone": "CENTRAL SUBZONE",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.845571336117,
+    "max_longitude": 103.858426183958,
+    "min_latitude": 1.26872044839808,
+    "max_latitude": 1.28322007395973
+  },
+  {
+    "subzone": "SINGAPORE GENERAL HOSPITAL",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.829029010809,
+    "max_longitude": 103.839614605855,
+    "min_latitude": 1.27612279835162,
+    "max_latitude": 1.28329013927765
+  },
+  {
+    "subzone": "BUGIS",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.852725081267,
+    "max_longitude": 103.859423397836,
+    "min_latitude": 1.29536537302661,
+    "max_latitude": 1.30308646152874
+  },
+  {
+    "subzone": "VICTORIA",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.850097641604,
+    "max_longitude": 103.855853771506,
+    "min_latitude": 1.29638401635408,
+    "max_latitude": 1.3032533700627
+  },
+  {
+    "subzone": "PATERSON",
+    "planning_area": "RIVER VALLEY",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.829311224227,
+    "max_longitude": 103.834835088044,
+    "min_latitude": 1.29919623875684,
+    "max_latitude": 1.30388521745705
+  },
+  {
+    "subzone": "EAST COAST",
+    "planning_area": "MARINE PARADE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.898284756076,
+    "max_longitude": 103.919508833671,
+    "min_latitude": 1.2954428691547,
+    "max_latitude": 1.30392767662758
+  },
+  {
+    "subzone": "NATIONAL UNIVERSITY OF S'PORE",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.768990965108,
+    "max_longitude": 103.785969968577,
+    "min_latitude": 1.28964947902201,
+    "max_latitude": 1.30398439234732
+  },
+  {
+    "subzone": "ONE TREE HILL",
+    "planning_area": "RIVER VALLEY",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.823245995783,
+    "max_longitude": 103.830799928515,
+    "min_latitude": 1.29898301906394,
+    "max_latitude": 1.30465839121414
+  },
+  {
+    "subzone": "COMMONWEALTH",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.797224801209,
+    "max_longitude": 103.802265683522,
+    "min_latitude": 1.30020299501425,
+    "max_latitude": 1.30965285271448
+  },
+  {
+    "subzone": "DOVER",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.771207898843,
+    "max_longitude": 103.787428951163,
+    "min_latitude": 1.29738048394743,
+    "max_latitude": 1.30978528636294
+  },
+  {
+    "subzone": "RIDOUT",
+    "planning_area": "TANGLIN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.802283981872,
+    "max_longitude": 103.822730422956,
+    "min_latitude": 1.2967135103292,
+    "max_latitude": 1.31081921461479
+  },
+  {
+    "subzone": "CAIRNHILL",
+    "planning_area": "NEWTON",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.833661342551,
+    "max_longitude": 103.841247652815,
+    "min_latitude": 1.30157530090153,
+    "max_latitude": 1.31093478164752
+  },
+  {
+    "subzone": "CLEMENTI WEST",
+    "planning_area": "CLEMENTI",
+    "region": "WEST REGION",
+    "min_longitude": 103.756460482718,
+    "max_longitude": 103.768018484399,
+    "min_latitude": 1.29164957733389,
+    "max_latitude": 1.31112545915549
+  },
+  {
+    "subzone": "MONK'S HILL",
+    "planning_area": "NEWTON",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.839894469646,
+    "max_longitude": 103.844486865121,
+    "min_latitude": 1.30279361714322,
+    "max_latitude": 1.31148268990191
+  },
+  {
+    "subzone": "SIGLAP",
+    "planning_area": "BEDOK",
+    "region": "EAST REGION",
+    "min_longitude": 103.918259763487,
+    "max_longitude": 103.935838552741,
+    "min_latitude": 1.30182319871042,
+    "max_latitude": 1.31151668139103
+  },
+  {
+    "subzone": "CLEMENTI WOODS",
+    "planning_area": "CLEMENTI",
+    "region": "WEST REGION",
+    "min_longitude": 103.763416890345,
+    "max_longitude": 103.7722545781,
+    "min_latitude": 1.29245688036974,
+    "max_latitude": 1.31212307389273
+  },
+  {
+    "subzone": "PIONEER SECTOR",
+    "planning_area": "PIONEER",
+    "region": "WEST REGION",
+    "min_longitude": 103.649807783576,
+    "max_longitude": 103.672793382168,
+    "min_latitude": 1.28867572576302,
+    "max_latitude": 1.31231732850575
+  },
+  {
+    "subzone": "PENJURU CRESCENT",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.726292235938,
+    "max_longitude": 103.757281154762,
+    "min_latitude": 1.29650271540964,
+    "max_latitude": 1.31278104409556
+  },
+  {
+    "subzone": "ORANGE GROVE",
+    "planning_area": "NEWTON",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.826731539552,
+    "max_longitude": 103.833555343023,
+    "min_latitude": 1.30712321907126,
+    "max_latitude": 1.31293833687243
+  },
+  {
+    "subzone": "KAMPONG BUGIS",
+    "planning_area": "KALLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.863981676748,
+    "max_longitude": 103.877349766438,
+    "min_latitude": 1.30332542165289,
+    "max_latitude": 1.31318419842898
+  },
+  {
+    "subzone": "KENT RIDGE",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.782329128564,
+    "max_longitude": 103.803127891742,
+    "min_latitude": 1.27756035537741,
+    "max_latitude": 1.29432089606045
+  },
+  {
+    "subzone": "ALEXANDRA NORTH",
+    "planning_area": "BUKIT MERAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.81536376184,
+    "max_longitude": 103.826225258233,
+    "min_latitude": 1.29057274689968,
+    "max_latitude": 1.29436599578968
+  },
+  {
+    "subzone": "TANGLIN HALT",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.791419353684,
+    "max_longitude": 103.80086407057,
+    "min_latitude": 1.29377443881266,
+    "max_latitude": 1.30777650885599
+  },
+  {
+    "subzone": "MACKENZIE",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.84656035979,
+    "max_longitude": 103.850481327757,
+    "min_latitude": 1.30446092257968,
+    "max_latitude": 1.30814124913959
+  },
+  {
+    "subzone": "SUNGEI ROAD",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.853932573808,
+    "max_longitude": 103.859459992333,
+    "min_latitude": 1.30312490352836,
+    "max_latitude": 1.3081936199523
+  },
+  {
+    "subzone": "ONE NORTH",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.783112613573,
+    "max_longitude": 103.799008157814,
+    "min_latitude": 1.28910803661987,
+    "max_latitude": 1.3082725115487
+  },
+  {
+    "subzone": "TANJONG RHU",
+    "planning_area": "KALLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.865227778311,
+    "max_longitude": 103.885518482869,
+    "min_latitude": 1.29417331879382,
+    "max_latitude": 1.30830606783896
+  },
+  {
+    "subzone": "KATONG",
+    "planning_area": "MARINE PARADE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.894419332158,
+    "max_longitude": 103.909983251149,
+    "min_latitude": 1.30193928403849,
+    "max_latitude": 1.31332349984479
+  },
+  {
+    "subzone": "BOULEVARD",
+    "planning_area": "ORCHARD",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.827612576444,
+    "max_longitude": 103.836612220481,
+    "min_latitude": 1.30043333295958,
+    "max_latitude": 1.30979273265488
+  },
+  {
+    "subzone": "ISTANA NEGARA",
+    "planning_area": "NEWTON",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.841182196533,
+    "max_longitude": 103.848669582074,
+    "min_latitude": 1.2995946396513,
+    "max_latitude": 1.31049906549199
+  },
+  {
+    "subzone": "LITTLE INDIA",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.850794975339,
+    "max_longitude": 103.857144013259,
+    "min_latitude": 1.3032533700627,
+    "max_latitude": 1.31061788035554
+  },
+  {
+    "subzone": "GUL BASIN",
+    "planning_area": "PIONEER",
+    "region": "WEST REGION",
+    "min_longitude": 103.66527091036,
+    "max_longitude": 103.681900005488,
+    "min_latitude": 1.29357111733848,
+    "max_latitude": 1.31062350500664
+  },
+  {
+    "subzone": "MARINA CENTRE",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.854154889385,
+    "max_longitude": 103.865019543789,
+    "min_latitude": 1.28764862308733,
+    "max_latitude": 1.29858323486865
+  },
+  {
+    "subzone": "BRAS BASAH",
+    "planning_area": "MUSEUM",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.845965604449,
+    "max_longitude": 103.852306218774,
+    "min_latitude": 1.29250705883069,
+    "max_latitude": 1.29914136047482
+  },
+  {
+    "subzone": "SOMERSET",
+    "planning_area": "ORCHARD",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.834835088044,
+    "max_longitude": 103.843224172944,
+    "min_latitude": 1.29823967931175,
+    "max_latitude": 1.30474186318649
+  },
+  {
+    "subzone": "BENCOOLEN",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.84915174551,
+    "max_longitude": 103.853932573808,
+    "min_latitude": 1.29834092955585,
+    "max_latitude": 1.30490008111717
+  },
+  {
+    "subzone": "CHATSWORTH",
+    "planning_area": "TANGLIN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.815976656856,
+    "max_longitude": 103.831805537455,
+    "min_latitude": 1.29193030036808,
+    "max_latitude": 1.30499416993465
+  },
+  {
+    "subzone": "KAMPONG GLAM",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.856956911946,
+    "max_longitude": 103.862277274912,
+    "min_latitude": 1.29978151432519,
+    "max_latitude": 1.30500917719575
+  },
+  {
+    "subzone": "SELEGIE",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.848801102263,
+    "max_longitude": 103.850794975339,
+    "min_latitude": 1.2995920830618,
+    "max_latitude": 1.30516984081628
+  },
+  {
+    "subzone": "MOUNT EMILY",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.845373082389,
+    "max_longitude": 103.84975339713,
+    "min_latitude": 1.29968979989803,
+    "max_latitude": 1.30541405002644
+  },
+  {
+    "subzone": "ROCHOR CANAL",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.854117148502,
+    "max_longitude": 103.860195989691,
+    "min_latitude": 1.30190259054947,
+    "max_latitude": 1.3060092685265
+  },
+  {
+    "subzone": "MARGARET DRIVE",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.80086407057,
+    "max_longitude": 103.816598169603,
+    "min_latitude": 1.29152266860862,
+    "max_latitude": 1.30724221295876
+  },
+  {
+    "subzone": "OXLEY",
+    "planning_area": "RIVER VALLEY",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.837185643488,
+    "max_longitude": 103.843304828305,
+    "min_latitude": 1.29440170547904,
+    "max_latitude": 1.29927631415654
+  },
+  {
+    "subzone": "CITY HALL",
+    "planning_area": "DOWNTOWN CORE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.848055141067,
+    "max_longitude": 103.860348183631,
+    "min_latitude": 1.28615361672323,
+    "max_latitude": 1.29978151432519
+  },
+  {
+    "subzone": "MEI CHIN",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.799008157814,
+    "max_longitude": 103.808381856314,
+    "min_latitude": 1.28751843885221,
+    "max_latitude": 1.30020299501425
+  },
+  {
+    "subzone": "LEONIE HILL",
+    "planning_area": "RIVER VALLEY",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.829949685244,
+    "max_longitude": 103.838833393633,
+    "min_latitude": 1.29560993081574,
+    "max_latitude": 1.30043333295958
+  },
+  {
+    "subzone": "PORT",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.750225426525,
+    "max_longitude": 103.801863376726,
+    "min_latitude": 1.25501244843132,
+    "max_latitude": 1.3013444628018
+  },
+  {
+    "subzone": "DHOBY GHAUT",
+    "planning_area": "MUSEUM",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.841357649147,
+    "max_longitude": 103.849460270871,
+    "min_latitude": 1.29647004605463,
+    "max_latitude": 1.30173850926408
+  },
+  {
+    "subzone": "MACPHERSON",
+    "planning_area": "GEYLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.879017046753,
+    "max_longitude": 103.89096101911,
+    "min_latitude": 1.32086047086513,
+    "max_latitude": 1.33356017076325
+  },
+  {
+    "subzone": "KIM KEAT",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.854740652295,
+    "max_longitude": 103.862352303603,
+    "min_latitude": 1.32910217362421,
+    "max_latitude": 1.33423720056537
+  },
+  {
+    "subzone": "BEDOK NORTH",
+    "planning_area": "BEDOK",
+    "region": "EAST REGION",
+    "min_longitude": 103.919542600287,
+    "max_longitude": 103.951852996277,
+    "min_latitude": 1.32351890181346,
+    "max_latitude": 1.33601227256862
+  },
+  {
+    "subzone": "TOA PAYOH CENTRAL",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.83777075443,
+    "max_longitude": 103.855540731168,
+    "min_latitude": 1.32884614993549,
+    "max_latitude": 1.33705051994564
+  },
+  {
+    "subzone": "JURONG GATEWAY",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.737749667587,
+    "max_longitude": 103.74772039675,
+    "min_latitude": 1.32844646713867,
+    "max_latitude": 1.33722216355493
+  },
+  {
+    "subzone": "HOLLAND ROAD",
+    "planning_area": "BUKIT TIMAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.770782701394,
+    "max_longitude": 103.795550067246,
+    "min_latitude": 1.31738404986504,
+    "max_latitude": 1.33771655198315
+  },
+  {
+    "subzone": "KAMPONG UBI",
+    "planning_area": "GEYLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.88887199887,
+    "max_longitude": 103.905853113088,
+    "min_latitude": 1.32293914611222,
+    "max_latitude": 1.3377972386808
+  },
+  {
+    "subzone": "SENNETT",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.868292896,
+    "max_longitude": 103.879017046753,
+    "min_latitude": 1.32781917668563,
+    "max_latitude": 1.33785147429926
+  },
+  {
+    "subzone": "POTONG PASIR",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.862001877494,
+    "max_longitude": 103.870101079774,
+    "min_latitude": 1.32810076785263,
+    "max_latitude": 1.338576088249
+  },
+  {
+    "subzone": "TUAS NORTH",
+    "planning_area": "TUAS",
+    "region": "WEST REGION",
+    "min_longitude": 103.638891505422,
+    "max_longitude": 103.663505662669,
+    "min_latitude": 1.31453432442991,
+    "max_latitude": 1.33899383027379
+  },
+  {
+    "subzone": "PEI CHUN",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.853728774178,
+    "max_longitude": 103.862240714363,
+    "min_latitude": 1.33419147891494,
+    "max_latitude": 1.33980833134751
+  },
+  {
+    "subzone": "BOON TECK",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.849764567311,
+    "max_longitude": 103.8563109764,
+    "min_latitude": 1.33122983885658,
+    "max_latitude": 1.3399557241982
+  },
+  {
+    "subzone": "KIAN TECK",
+    "planning_area": "JURONG WEST",
+    "region": "WEST REGION",
+    "min_longitude": 103.679344181482,
+    "max_longitude": 103.709766896426,
+    "min_latitude": 1.32775723005887,
+    "max_latitude": 1.34044187353204
+  },
+  {
+    "subzone": "SAFTI",
+    "planning_area": "JURONG WEST",
+    "region": "WEST REGION",
+    "min_longitude": 103.674931902923,
+    "max_longitude": 103.691851875207,
+    "min_latitude": 1.3297198245157,
+    "max_latitude": 1.34120052707629
+  },
+  {
+    "subzone": "FARRER PARK",
+    "planning_area": "ROCHOR",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.848763870426,
+    "max_longitude": 103.855413567514,
+    "min_latitude": 1.30490008111717,
+    "max_latitude": 1.31362032308022
+  },
+  {
+    "subzone": "NEWTON CIRCUS",
+    "planning_area": "NEWTON",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.835553397635,
+    "max_longitude": 103.842167260539,
+    "min_latitude": 1.30874068118036,
+    "max_latitude": 1.31449734685779
+  },
+  {
+    "subzone": "JURONG PORT",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.709773441284,
+    "max_longitude": 103.728839727598,
+    "min_latitude": 1.29735588573742,
+    "max_latitude": 1.31462139222155
+  },
+  {
+    "subzone": "ANG MO KIO TOWN CENTRE",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.844698797608,
+    "max_longitude": 103.84972892463,
+    "min_latitude": 1.36878154590401,
+    "max_latitude": 1.37734366888267
+  },
+  {
+    "subzone": "KEBUN BAHRU",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.833005586749,
+    "max_longitude": 103.845514988408,
+    "min_latitude": 1.36909081165142,
+    "max_latitude": 1.37799494219178
+  },
+  {
+    "subzone": "SERANGOON NORTH IND ESTATE",
+    "planning_area": "SERANGOON",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.858546119157,
+    "max_longitude": 103.87176010055,
+    "min_latitude": 1.36941673039585,
+    "max_latitude": 1.37870227727522
+  },
+  {
+    "subzone": "TENGAH INDUSTRIAL ESTATE",
+    "planning_area": "TENGAH",
+    "region": "WEST REGION",
+    "min_longitude": 103.70624573365,
+    "max_longitude": 103.727143032609,
+    "min_latitude": 1.35544710977738,
+    "max_latitude": 1.37181282034586
+  },
+  {
+    "subzone": "SAMULUN",
+    "planning_area": "BOON LAY",
+    "region": "WEST REGION",
+    "min_longitude": 103.694366374946,
+    "max_longitude": 103.710078393839,
+    "min_latitude": 1.29952626415486,
+    "max_latitude": 1.31522218491819
+  },
+  {
+    "subzone": "SHIPYARD",
+    "planning_area": "BOON LAY",
+    "region": "WEST REGION",
+    "min_longitude": 103.681103660716,
+    "max_longitude": 103.697819150547,
+    "min_latitude": 1.2990746227579,
+    "max_latitude": 1.31537932898732
+  },
+  {
+    "subzone": "GHIM MOH",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.783081322919,
+    "max_longitude": 103.791516153423,
+    "min_latitude": 1.30767011575001,
+    "max_latitude": 1.31579900468811
+  },
+  {
+    "subzone": "LAVENDER",
+    "planning_area": "KALLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.85436533166,
+    "max_longitude": 103.864335094331,
+    "min_latitude": 1.30599295905276,
+    "max_latitude": 1.31682285391854
+  },
+  {
+    "subzone": "FRANKEL",
+    "planning_area": "BEDOK",
+    "region": "EAST REGION",
+    "min_longitude": 103.905087598532,
+    "max_longitude": 103.934371820621,
+    "min_latitude": 1.30554733713054,
+    "max_latitude": 1.32415725526804
+  },
+  {
+    "subzone": "CLEMENTI NORTH",
+    "planning_area": "CLEMENTI",
+    "region": "WEST REGION",
+    "min_longitude": 103.760094512489,
+    "max_longitude": 103.772266242723,
+    "min_latitude": 1.311832403824,
+    "max_latitude": 1.32434210145853
+  },
+  {
+    "subzone": "LEEDON PARK",
+    "planning_area": "BUKIT TIMAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.787511040494,
+    "max_longitude": 103.806630927935,
+    "min_latitude": 1.30691572967297,
+    "max_latitude": 1.32493383559731
+  },
+  {
+    "subzone": "GEYLANG EAST",
+    "planning_area": "GEYLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.88890367338,
+    "max_longitude": 103.906706206982,
+    "min_latitude": 1.3085887318522,
+    "max_latitude": 1.32609083589147
+  },
+  {
+    "subzone": "TEBAN GARDENS",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.734320410792,
+    "max_longitude": 103.75290290621,
+    "min_latitude": 1.30318738284672,
+    "max_latitude": 1.32721196934048
+  },
+  {
+    "subzone": "JURONG RIVER",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.719477306126,
+    "max_longitude": 103.737895199037,
+    "min_latitude": 1.31130944659503,
+    "max_latitude": 1.32731069545153
+  },
+  {
+    "subzone": "GEYLANG BAHRU",
+    "planning_area": "KALLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.86630809507,
+    "max_longitude": 103.87564696645,
+    "min_latitude": 1.31540775638347,
+    "max_latitude": 1.32810076785263
+  },
+  {
+    "subzone": "GOODWOOD PARK",
+    "planning_area": "NEWTON",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.829802458382,
+    "max_longitude": 103.837913681124,
+    "min_latitude": 1.30892430117048,
+    "max_latitude": 1.31736900749956
+  },
+  {
+    "subzone": "PANDAN",
+    "planning_area": "CLEMENTI",
+    "region": "WEST REGION",
+    "min_longitude": 103.7474665695,
+    "max_longitude": 103.76231426243,
+    "min_latitude": 1.29837169652092,
+    "max_latitude": 1.3176020174625
+  },
+  {
+    "subzone": "SINGAPORE POLYTECHNIC",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.771201097073,
+    "max_longitude": 103.785017825034,
+    "min_latitude": 1.30563327003844,
+    "max_latitude": 1.31873292512573
+  },
+  {
+    "subzone": "CLEMENTI CENTRAL",
+    "planning_area": "CLEMENTI",
+    "region": "WEST REGION",
+    "min_longitude": 103.75808271857,
+    "max_longitude": 103.767850238379,
+    "min_latitude": 1.30651421029749,
+    "max_latitude": 1.31889835822609
+  },
+  {
+    "subzone": "KAMPONG JAVA",
+    "planning_area": "KALLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.844324431123,
+    "max_longitude": 103.857695904876,
+    "min_latitude": 1.30662347541952,
+    "max_latitude": 1.31950468011209
+  },
+  {
+    "subzone": "BOON KENG",
+    "planning_area": "KALLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.868988786312,
+    "max_longitude": 103.875918444485,
+    "min_latitude": 1.3105157790009,
+    "max_latitude": 1.3202135864137
+  },
+  {
+    "subzone": "KALLANG BAHRU",
+    "planning_area": "KALLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.860335127703,
+    "max_longitude": 103.870370483008,
+    "min_latitude": 1.30874016043771,
+    "max_latitude": 1.32035413216443
+  },
+  {
+    "subzone": "ULU PANDAN",
+    "planning_area": "BUKIT TIMAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.771145989977,
+    "max_longitude": 103.793132103054,
+    "min_latitude": 1.31032054390994,
+    "max_latitude": 1.32100109233477
+  },
+  {
+    "subzone": "FARRER COURT",
+    "planning_area": "BUKIT TIMAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.799930238858,
+    "max_longitude": 103.811744287131,
+    "min_latitude": 1.31081921461479,
+    "max_latitude": 1.32179423974944
+  },
+  {
+    "subzone": "NASSIM",
+    "planning_area": "TANGLIN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.817045760641,
+    "max_longitude": 103.835339825107,
+    "min_latitude": 1.30507272471841,
+    "max_latitude": 1.32203490553337
+  },
+  {
+    "subzone": "WEST COAST",
+    "planning_area": "CLEMENTI",
+    "region": "WEST REGION",
+    "min_longitude": 103.749768817593,
+    "max_longitude": 103.760444825933,
+    "min_latitude": 1.31038691355489,
+    "max_latitude": 1.32194243102763
+  },
+  {
+    "subzone": "BAYSHORE",
+    "planning_area": "BEDOK",
+    "region": "EAST REGION",
+    "min_longitude": 103.933640123442,
+    "max_longitude": 103.963634013985,
+    "min_latitude": 1.30617092729292,
+    "max_latitude": 1.32200094823513
+  },
+  {
+    "subzone": "BENOI SECTOR",
+    "planning_area": "PIONEER",
+    "region": "WEST REGION",
+    "min_longitude": 103.678581874836,
+    "max_longitude": 103.696531879864,
+    "min_latitude": 1.30978279135103,
+    "max_latitude": 1.32274339461513
+  },
+  {
+    "subzone": "GUL CIRCLE",
+    "planning_area": "PIONEER",
+    "region": "WEST REGION",
+    "min_longitude": 103.655869525885,
+    "max_longitude": 103.679120787438,
+    "min_latitude": 1.30789210167211,
+    "max_latitude": 1.32278533125046
+  },
+  {
+    "subzone": "TYERSALL",
+    "planning_area": "TANGLIN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.803540830528,
+    "max_longitude": 103.821297879974,
+    "min_latitude": 1.30641775333476,
+    "max_latitude": 1.32329481384986
+  },
+  {
+    "subzone": "MOULMEIN",
+    "planning_area": "NOVENA",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.835422277885,
+    "max_longitude": 103.851347003963,
+    "min_latitude": 1.31055623110787,
+    "max_latitude": 1.32336766404334
+  },
+  {
+    "subzone": "LIU FANG",
+    "planning_area": "BOON LAY",
+    "region": "WEST REGION",
+    "min_longitude": 103.695874697159,
+    "max_longitude": 103.720349217081,
+    "min_latitude": 1.31358672414093,
+    "max_latitude": 1.32358855385572
+  },
+  {
+    "subzone": "TANGLIN",
+    "planning_area": "ORCHARD",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.82266395001,
+    "max_longitude": 103.82857453212,
+    "min_latitude": 1.30267769394865,
+    "max_latitude": 1.30727454431652
+  },
+  {
+    "subzone": "MARINE PARADE",
+    "planning_area": "MARINE PARADE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.897103552276,
+    "max_longitude": 103.919141246104,
+    "min_latitude": 1.29746210637663,
+    "max_latitude": 1.30747117756733
+  },
+  {
+    "subzone": "JOO KOON",
+    "planning_area": "PIONEER",
+    "region": "WEST REGION",
+    "min_longitude": 103.663505662669,
+    "max_longitude": 103.696534846764,
+    "min_latitude": 1.32179933528019,
+    "max_latitude": 1.33104977652643
+  },
+  {
+    "subzone": "KALLANG WAY",
+    "planning_area": "GEYLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.868743194687,
+    "max_longitude": 103.881422957804,
+    "min_latitude": 1.3202135864137,
+    "max_latitude": 1.33129938981602
+  },
+  {
+    "subzone": "INTERNATIONAL BUSINESS PARK",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.744480795109,
+    "max_longitude": 103.75217826764,
+    "min_latitude": 1.32193818771199,
+    "max_latitude": 1.33159252917413
+  },
+  {
+    "subzone": "TUKANG",
+    "planning_area": "BOON LAY",
+    "region": "WEST REGION",
+    "min_longitude": 103.696508283264,
+    "max_longitude": 103.721149183726,
+    "min_latitude": 1.3214454928413,
+    "max_latitude": 1.33165351635649
+  },
+  {
+    "subzone": "CORONATION ROAD",
+    "planning_area": "BUKIT TIMAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.792612757737,
+    "max_longitude": 103.813351687912,
+    "min_latitude": 1.32030593591266,
+    "max_latitude": 1.33171337598736
+  },
+  {
+    "subzone": "KEMBANGAN",
+    "planning_area": "BEDOK",
+    "region": "EAST REGION",
+    "min_longitude": 103.904942362193,
+    "max_longitude": 103.927295921568,
+    "min_latitude": 1.31760221429615,
+    "max_latitude": 1.33243324369505
+  },
+  {
+    "subzone": "DUNEARN",
+    "planning_area": "NOVENA",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.813356449178,
+    "max_longitude": 103.828838884564,
+    "min_latitude": 1.32074644683714,
+    "max_latitude": 1.33245894641334
+  },
+  {
+    "subzone": "SUNSET WAY",
+    "planning_area": "CLEMENTI",
+    "region": "WEST REGION",
+    "min_longitude": 103.764008408999,
+    "max_longitude": 103.775645043981,
+    "min_latitude": 1.31872442506296,
+    "max_latitude": 1.33287100065137
+  },
+  {
+    "subzone": "ANAK BUKIT",
+    "planning_area": "BUKIT TIMAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.76318337968,
+    "max_longitude": 103.779394574814,
+    "min_latitude": 1.32642673736498,
+    "max_latitude": 1.3490164394126
+  },
+  {
+    "subzone": "SWISS CLUB",
+    "planning_area": "BUKIT TIMAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.777828259911,
+    "max_longitude": 103.806444502535,
+    "min_latitude": 1.33092123124858,
+    "max_latitude": 1.3495432829389
+  },
+  {
+    "subzone": "XILIN",
+    "planning_area": "TAMPINES",
+    "region": "EAST REGION",
+    "min_longitude": 103.951853651276,
+    "max_longitude": 103.984812458002,
+    "min_latitude": 1.31411034937943,
+    "max_latitude": 1.34968323113407
+  },
+  {
+    "subzone": "FABER",
+    "planning_area": "CLEMENTI",
+    "region": "WEST REGION",
+    "min_longitude": 103.749782636976,
+    "max_longitude": 103.763107553525,
+    "min_latitude": 1.31435323015377,
+    "max_latitude": 1.32899795152048
+  },
+  {
+    "subzone": "MALCOLM",
+    "planning_area": "NOVENA",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.825442651375,
+    "max_longitude": 103.841972182536,
+    "min_latitude": 1.31727691778506,
+    "max_latitude": 1.32884614993549
+  },
+  {
+    "subzone": "BEDOK SOUTH",
+    "planning_area": "BEDOK",
+    "region": "EAST REGION",
+    "min_longitude": 103.931846024246,
+    "max_longitude": 103.959765229473,
+    "min_latitude": 1.31415727192287,
+    "max_latitude": 1.33006429937977
+  },
+  {
+    "subzone": "DEFU INDUSTRIAL PARK",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.889702425012,
+    "max_longitude": 103.905208340306,
+    "min_latitude": 1.337796233955,
+    "max_latitude": 1.36306019608307
+  },
+  {
+    "subzone": "CHANGI BAY",
+    "planning_area": "CHANGI BAY",
+    "region": "EAST REGION",
+    "min_longitude": 104.014801274567,
+    "max_longitude": 104.084390970493,
+    "min_latitude": 1.29086810297119,
+    "max_latitude": 1.36053331933783
+  },
+  {
+    "subzone": "PAYA LEBAR EAST",
+    "planning_area": "PAYA LEBAR",
+    "region": "EAST REGION",
+    "min_longitude": 103.912995313888,
+    "max_longitude": 103.930937898692,
+    "min_latitude": 1.34227507357431,
+    "max_latitude": 1.36797948957449
+  },
+  {
+    "subzone": "HONG KAH NORTH",
+    "planning_area": "BUKIT BATOK",
+    "region": "WEST REGION",
+    "min_longitude": 103.742174084354,
+    "max_longitude": 103.751592422689,
+    "min_latitude": 1.35644950561407,
+    "max_latitude": 1.36905241548537
+  },
+  {
+    "subzone": "KOVAN",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.873269444765,
+    "max_longitude": 103.890937572971,
+    "min_latitude": 1.35387774249936,
+    "max_latitude": 1.36966690367837
+  },
+  {
+    "subzone": "CHONG BOON",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.84972892463,
+    "max_longitude": 103.860926845181,
+    "min_latitude": 1.35551234779564,
+    "max_latitude": 1.36986755623817
+  },
+  {
+    "subzone": "SERANGOON GARDEN",
+    "planning_area": "SERANGOON",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.856862882287,
+    "max_longitude": 103.87635518151,
+    "min_latitude": 1.3539107180702,
+    "max_latitude": 1.37191153231536
+  },
+  {
+    "subzone": "HOUGANG CENTRAL",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.886767633187,
+    "max_longitude": 103.895851357222,
+    "min_latitude": 1.36564402503632,
+    "max_latitude": 1.37302101075418
+  },
+  {
+    "subzone": "LOYANG EAST",
+    "planning_area": "PASIR RIS",
+    "region": "EAST REGION",
+    "min_longitude": 103.966624524779,
+    "max_longitude": 103.979988321168,
+    "min_latitude": 1.36171518479922,
+    "max_latitude": 1.37404498471652
+  },
+  {
+    "subzone": "DAIRY FARM",
+    "planning_area": "BUKIT PANJANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.764453635012,
+    "max_longitude": 103.779619133302,
+    "min_latitude": 1.3634138236198,
+    "max_latitude": 1.37434411944282
+  },
+  {
+    "subzone": "PASIR RIS DRIVE",
+    "planning_area": "PASIR RIS",
+    "region": "EAST REGION",
+    "min_longitude": 103.952740851764,
+    "max_longitude": 103.966624524779,
+    "min_latitude": 1.3602415167292,
+    "max_latitude": 1.37554163995685
+  },
+  {
+    "subzone": "TAMPINES NORTH",
+    "planning_area": "TAMPINES",
+    "region": "EAST REGION",
+    "min_longitude": 103.930399136683,
+    "max_longitude": 103.953227423083,
+    "min_latitude": 1.3603551085991,
+    "max_latitude": 1.37578206910344
+  },
+  {
+    "subzone": "CHENG SAN",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.847742973757,
+    "max_longitude": 103.860913080281,
+    "min_latitude": 1.36902599633868,
+    "max_latitude": 1.37673338283141
+  },
+  {
+    "subzone": "SEMBAWANG HILLS",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.826300322895,
+    "max_longitude": 103.83642258829,
+    "min_latitude": 1.36747164235771,
+    "max_latitude": 1.38104256190755
+  },
+  {
+    "subzone": "JELEBU",
+    "planning_area": "BUKIT PANJANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.761240296186,
+    "max_longitude": 103.771853384515,
+    "min_latitude": 1.36944381552918,
+    "max_latitude": 1.38111630975639
+  },
+  {
+    "subzone": "KEAT HONG",
+    "planning_area": "CHOA CHU KANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.739135777711,
+    "max_longitude": 103.753809849449,
+    "min_latitude": 1.36905241548537,
+    "max_latitude": 1.38148638290059
+  },
+  {
+    "subzone": "BENDEMEER",
+    "planning_area": "KALLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.853373825352,
+    "max_longitude": 103.868292896,
+    "min_latitude": 1.31398045386684,
+    "max_latitude": 1.33043906690859
+  },
+  {
+    "subzone": "BALESTIER",
+    "planning_area": "NOVENA",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.840577666048,
+    "max_longitude": 103.8623523054,
+    "min_latitude": 1.31849432508818,
+    "max_latitude": 1.33052828707238
+  },
+  {
+    "subzone": "TUAS PROMENADE",
+    "planning_area": "TUAS",
+    "region": "WEST REGION",
+    "min_longitude": 103.620759358934,
+    "max_longitude": 103.646655251141,
+    "min_latitude": 1.30692281506932,
+    "max_latitude": 1.35310408676841
+  },
+  {
+    "subzone": "SERANGOON CENTRAL",
+    "planning_area": "SERANGOON",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.862601933439,
+    "max_longitude": 103.87807314769,
+    "min_latitude": 1.34621004736059,
+    "max_latitude": 1.35865646989034
+  },
+  {
+    "subzone": "BISHAN EAST",
+    "planning_area": "BISHAN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.846439834006,
+    "max_longitude": 103.860436960245,
+    "min_latitude": 1.34320554673705,
+    "max_latitude": 1.36032698165039
+  },
+  {
+    "subzone": "TAMPINES WEST",
+    "planning_area": "TAMPINES",
+    "region": "EAST REGION",
+    "min_longitude": 103.924970495932,
+    "max_longitude": 103.9469265755,
+    "min_latitude": 1.33601227256862,
+    "max_latitude": 1.36042405234545
+  },
+  {
+    "subzone": "BRICKWORKS",
+    "planning_area": "BUKIT BATOK",
+    "region": "WEST REGION",
+    "min_longitude": 103.736507520991,
+    "max_longitude": 103.748411978891,
+    "min_latitude": 1.34975716368189,
+    "max_latitude": 1.3627526553315
+  },
+  {
+    "subzone": "SERANGOON NORTH",
+    "planning_area": "SERANGOON",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.868290857412,
+    "max_longitude": 103.876993689675,
+    "min_latitude": 1.36966690367837,
+    "max_latitude": 1.37894236868968
+  },
+  {
+    "subzone": "GUILIN",
+    "planning_area": "BUKIT BATOK",
+    "region": "WEST REGION",
+    "min_longitude": 103.747319251183,
+    "max_longitude": 103.759985693207,
+    "min_latitude": 1.34952171662394,
+    "max_latitude": 1.36367216318718
+  },
+  {
+    "subzone": "WENYA",
+    "planning_area": "JURONG WEST",
+    "region": "WEST REGION",
+    "min_longitude": 103.69788285426,
+    "max_longitude": 103.717391250682,
+    "min_latitude": 1.34717402917043,
+    "max_latitude": 1.36434849171587
+  },
+  {
+    "subzone": "NATURE RESERVE",
+    "planning_area": "BUKIT PANJANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.767078107329,
+    "max_longitude": 103.791656104689,
+    "min_latitude": 1.3418566621854,
+    "max_latitude": 1.36537811240641
+  },
+  {
+    "subzone": "TAMPINES EAST",
+    "planning_area": "TAMPINES",
+    "region": "EAST REGION",
+    "min_longitude": 103.938049272352,
+    "max_longitude": 103.967568687991,
+    "min_latitude": 1.34154764059511,
+    "max_latitude": 1.36555847229589
+  },
+  {
+    "subzone": "LORONG AH SOO",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.876493346538,
+    "max_longitude": 103.893144480129,
+    "min_latitude": 1.35088702188436,
+    "max_latitude": 1.36564402503632
+  },
+  {
+    "subzone": "FLORA DRIVE",
+    "planning_area": "PASIR RIS",
+    "region": "EAST REGION",
+    "min_longitude": 103.961150235444,
+    "max_longitude": 103.971868844512,
+    "min_latitude": 1.35269872684324,
+    "max_latitude": 1.36578420911555
+  },
+  {
+    "subzone": "HILLVIEW",
+    "planning_area": "BUKIT BATOK",
+    "region": "WEST REGION",
+    "min_longitude": 103.756831162035,
+    "max_longitude": 103.770384023476,
+    "min_latitude": 1.34662171696984,
+    "max_latitude": 1.3659362304273
+  },
+  {
+    "subzone": "TOH TUCK",
+    "planning_area": "CLEMENTI",
+    "region": "WEST REGION",
+    "min_longitude": 103.748632013592,
+    "max_longitude": 103.76450546227,
+    "min_latitude": 1.32343766758729,
+    "max_latitude": 1.34126703892121
+  },
+  {
+    "subzone": "MOUNT PLEASANT",
+    "planning_area": "NOVENA",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.816414485349,
+    "max_longitude": 103.840577666048,
+    "min_latitude": 1.32585353015626,
+    "max_latitude": 1.34168369981719
+  },
+  {
+    "subzone": "HILLCREST",
+    "planning_area": "BUKIT TIMAH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.797833811214,
+    "max_longitude": 103.818618356237,
+    "min_latitude": 1.32327381446575,
+    "max_latitude": 1.34181088078044
+  },
+  {
+    "subzone": "JOO SENG",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.875637720082,
+    "max_longitude": 103.88887199887,
+    "min_latitude": 1.33129938981602,
+    "max_latitude": 1.3420553845965
+  },
+  {
+    "subzone": "CHIN BEE",
+    "planning_area": "JURONG WEST",
+    "region": "WEST REGION",
+    "min_longitude": 103.708106331904,
+    "max_longitude": 103.718865244859,
+    "min_latitude": 1.32818502014117,
+    "max_latitude": 1.34286663169766
+  },
+  {
+    "subzone": "LORONG 8 TOA PAYOH",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.85233217627,
+    "max_longitude": 103.862001877494,
+    "min_latitude": 1.33782143868834,
+    "max_latitude": 1.34340343150334
+  },
+  {
+    "subzone": "TOH GUAN",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.740265857248,
+    "max_longitude": 103.749780916822,
+    "min_latitude": 1.32900750877672,
+    "max_latitude": 1.34364753414284
+  },
+  {
+    "subzone": "SIMEI",
+    "planning_area": "TAMPINES",
+    "region": "EAST REGION",
+    "min_longitude": 103.940335295665,
+    "max_longitude": 103.964068499858,
+    "min_latitude": 1.33006332354084,
+    "max_latitude": 1.35059898339286
+  },
+  {
+    "subzone": "BOON LAY PLACE",
+    "planning_area": "JURONG WEST",
+    "region": "WEST REGION",
+    "min_longitude": 103.705142257032,
+    "max_longitude": 103.716245276133,
+    "min_latitude": 1.34044187353204,
+    "max_latitude": 1.35171473902159
+  },
+  {
+    "subzone": "BUKIT BATOK EAST",
+    "planning_area": "BUKIT BATOK",
+    "region": "WEST REGION",
+    "min_longitude": 103.752749655685,
+    "max_longitude": 103.760839840671,
+    "min_latitude": 1.34547038289068,
+    "max_latitude": 1.35179614315358
+  },
+  {
+    "subzone": "BUKIT BATOK WEST",
+    "planning_area": "BUKIT BATOK",
+    "region": "WEST REGION",
+    "min_longitude": 103.737264096711,
+    "max_longitude": 103.746974149335,
+    "min_latitude": 1.34364753414284,
+    "max_latitude": 1.35211184286555
+  },
+  {
+    "subzone": "BUKIT BATOK CENTRAL",
+    "planning_area": "BUKIT BATOK",
+    "region": "WEST REGION",
+    "min_longitude": 103.744519964431,
+    "max_longitude": 103.757624124754,
+    "min_latitude": 1.34405308193446,
+    "max_latitude": 1.35236858971186
+  },
+  {
+    "subzone": "UPPER PAYA LEBAR",
+    "planning_area": "SERANGOON",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.870644379146,
+    "max_longitude": 103.885061957069,
+    "min_latitude": 1.34085981450117,
+    "max_latitude": 1.35243117031038
+  },
+  {
+    "subzone": "TAI SENG",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.879225265559,
+    "max_longitude": 103.896175301832,
+    "min_latitude": 1.33356017076325,
+    "max_latitude": 1.35254221838122
+  },
+  {
+    "subzone": "TENGEH",
+    "planning_area": "TUAS",
+    "region": "WEST REGION",
+    "min_longitude": 103.637159034638,
+    "max_longitude": 103.667721468382,
+    "min_latitude": 1.32278533125046,
+    "max_latitude": 1.35274080759965
+  },
+  {
+    "subzone": "YUHUA WEST",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.72808546317,
+    "max_longitude": 103.737264096711,
+    "min_latitude": 1.34105680440596,
+    "max_latitude": 1.35360920936584
+  },
+  {
+    "subzone": "BRADDELL",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.846073859366,
+    "max_longitude": 103.853621288535,
+    "min_latitude": 1.33650190390754,
+    "max_latitude": 1.34402413023203
+  },
+  {
+    "subzone": "BIDADARI",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.870560701409,
+    "max_longitude": 103.881402641494,
+    "min_latitude": 1.33758703531555,
+    "max_latitude": 1.3443142119478
+  },
+  {
+    "subzone": "WOODLEIGH",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.860436960245,
+    "max_longitude": 103.870779026504,
+    "min_latitude": 1.33482621161929,
+    "max_latitude": 1.34432673324067
+  },
+  {
+    "subzone": "TAMAN JURONG",
+    "planning_area": "JURONG WEST",
+    "region": "WEST REGION",
+    "min_longitude": 103.715869419505,
+    "max_longitude": 103.726014840195,
+    "min_latitude": 1.32358855385572,
+    "max_latitude": 1.34491716431998
+  },
+  {
+    "subzone": "LAKESIDE (LEISURE)",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.721391322675,
+    "max_longitude": 103.734895306147,
+    "min_latitude": 1.32503230718293,
+    "max_latitude": 1.34502168138454
+  },
+  {
+    "subzone": "TOA PAYOH WEST",
+    "planning_area": "TOA PAYOH",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.83598820339,
+    "max_longitude": 103.848533033332,
+    "min_latitude": 1.3338613582791,
+    "max_latitude": 1.34508212688909
+  },
+  {
+    "subzone": "KAKI BUKIT",
+    "planning_area": "BEDOK",
+    "region": "EAST REGION",
+    "min_longitude": 103.896176177952,
+    "max_longitude": 103.919542600287,
+    "min_latitude": 1.32609083589147,
+    "max_latitude": 1.34524273329796
+  },
+  {
+    "subzone": "YUHUA EAST",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.73405550348,
+    "max_longitude": 103.745296087219,
+    "min_latitude": 1.33328153387877,
+    "max_latitude": 1.34600303693591
+  },
+  {
+    "subzone": "BUKIT BATOK SOUTH",
+    "planning_area": "BUKIT BATOK",
+    "region": "WEST REGION",
+    "min_longitude": 103.745296087219,
+    "max_longitude": 103.767134678923,
+    "min_latitude": 1.33245311580807,
+    "max_latitude": 1.34671264403441
+  },
+  {
+    "subzone": "JURONG WEST CENTRAL",
+    "planning_area": "JURONG WEST",
+    "region": "WEST REGION",
+    "min_longitude": 103.694989632961,
+    "max_longitude": 103.709398655417,
+    "min_latitude": 1.33482764644405,
+    "max_latitude": 1.34717402917043
+  },
+  {
+    "subzone": "BEDOK RESERVOIR",
+    "planning_area": "BEDOK",
+    "region": "EAST REGION",
+    "min_longitude": 103.917955386031,
+    "max_longitude": 103.940335295665,
+    "min_latitude": 1.33243324369505,
+    "max_latitude": 1.34858506539201
+  },
+  {
+    "subzone": "LOWER SELETAR",
+    "planning_area": "YISHUN",
+    "region": "NORTH REGION",
+    "min_longitude": 103.82744830649,
+    "max_longitude": 103.867421871155,
+    "min_latitude": 1.39420213032305,
+    "max_latitude": 1.42763194965809
+  },
+  {
+    "subzone": "NORTHSHORE",
+    "planning_area": "PUNGGOL",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.897324798551,
+    "max_longitude": 103.914583043808,
+    "min_latitude": 1.40950361674181,
+    "max_latitude": 1.42150795555331
+  },
+  {
+    "subzone": "MANDAI ESTATE",
+    "planning_area": "MANDAI",
+    "region": "NORTH REGION",
+    "min_longitude": 103.823119515365,
+    "max_longitude": 103.826853695262,
+    "min_latitude": 1.42383920333214,
+    "max_latitude": 1.42914950985009
+  },
+  {
+    "subzone": "YISHUN CENTRAL",
+    "planning_area": "YISHUN",
+    "region": "NORTH REGION",
+    "min_longitude": 103.835013861146,
+    "max_longitude": 103.840797586432,
+    "min_latitude": 1.42290340116088,
+    "max_latitude": 1.43040548821269
+  },
+  {
+    "subzone": "PASIR RIS CENTRAL",
+    "planning_area": "PASIR RIS",
+    "region": "EAST REGION",
+    "min_longitude": 103.938434448515,
+    "max_longitude": 103.954099318824,
+    "min_latitude": 1.36555847229589,
+    "max_latitude": 1.37921057576304
+  },
+  {
+    "subzone": "GOMBAK",
+    "planning_area": "BUKIT BATOK",
+    "region": "WEST REGION",
+    "min_longitude": 103.748486119011,
+    "max_longitude": 103.766787422876,
+    "min_latitude": 1.35893061274931,
+    "max_latitude": 1.37966946108759
+  },
+  {
+    "subzone": "PAYA LEBAR NORTH",
+    "planning_area": "PAYA LEBAR",
+    "region": "EAST REGION",
+    "min_longitude": 103.919442404871,
+    "max_longitude": 103.931887654435,
+    "min_latitude": 1.36610999204309,
+    "max_latitude": 1.38016798727398
+  },
+  {
+    "subzone": "HOUGANG EAST",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.892756794805,
+    "max_longitude": 103.903596082644,
+    "min_latitude": 1.3703768684191,
+    "max_latitude": 1.38034417958432
+  },
+  {
+    "subzone": "LORONG HALUS",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.895833221676,
+    "max_longitude": 103.910045290765,
+    "min_latitude": 1.36179870175916,
+    "max_latitude": 1.38041414192465
+  },
+  {
+    "subzone": "KANGKAR",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.890937572971,
+    "max_longitude": 103.905203926362,
+    "min_latitude": 1.36148615905214,
+    "max_latitude": 1.3804342407435
+  },
+  {
+    "subzone": "CHANGI WEST",
+    "planning_area": "CHANGI",
+    "region": "EAST REGION",
+    "min_longitude": 103.96428702503,
+    "max_longitude": 103.990923384372,
+    "min_latitude": 1.3414435530668,
+    "max_latitude": 1.38925599697994
+  },
+  {
+    "subzone": "HOLLAND DRIVE",
+    "planning_area": "QUEENSTOWN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.791064205659,
+    "max_longitude": 103.798741958186,
+    "min_latitude": 1.30333575506505,
+    "max_latitude": 1.31339074261398
+  },
+  {
+    "subzone": "HOUGANG WEST",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.87635518151,
+    "max_longitude": 103.892836121086,
+    "min_latitude": 1.36782932653731,
+    "max_latitude": 1.38211115126027
+  },
+  {
+    "subzone": "PAYA LEBAR WEST",
+    "planning_area": "PAYA LEBAR",
+    "region": "EAST REGION",
+    "min_longitude": 103.905208340306,
+    "max_longitude": 103.919936249767,
+    "min_latitude": 1.36306019608307,
+    "max_latitude": 1.38236489930321
+  },
+  {
+    "subzone": "BANGKIT",
+    "planning_area": "BUKIT PANJANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.770010611102,
+    "max_longitude": 103.778374567066,
+    "min_latitude": 1.36997110874461,
+    "max_latitude": 1.38450473909702
+  },
+  {
+    "subzone": "LORONG HALUS NORTH",
+    "planning_area": "SENGKANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.904744466288,
+    "max_longitude": 103.917498521266,
+    "min_latitude": 1.37585613524189,
+    "max_latitude": 1.38592636032701
+  },
+  {
+    "subzone": "PENG SIANG",
+    "planning_area": "CHOA CHU KANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.732666672394,
+    "max_longitude": 103.743334772583,
+    "min_latitude": 1.37270292030272,
+    "max_latitude": 1.38661265871603
+  },
+  {
+    "subzone": "PASIR RIS WEST",
+    "planning_area": "PASIR RIS",
+    "region": "EAST REGION",
+    "min_longitude": 103.931888570062,
+    "max_longitude": 103.948714969438,
+    "min_latitude": 1.3725045718715,
+    "max_latitude": 1.38682456447349
+  },
+  {
+    "subzone": "YIO CHU KANG WEST",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.834223276182,
+    "max_longitude": 103.844729610929,
+    "min_latitude": 1.37708001306484,
+    "max_latitude": 1.38777513995931
+  },
+  {
+    "subzone": "CHANGI POINT",
+    "planning_area": "CHANGI",
+    "region": "EAST REGION",
+    "min_longitude": 103.973327332819,
+    "max_longitude": 103.990518801292,
+    "min_latitude": 1.38724316650097,
+    "max_latitude": 1.39378077229945
+  },
+  {
+    "subzone": "SENGKANG TOWN CENTRE",
+    "planning_area": "SENGKANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.891340083815,
+    "max_longitude": 103.903583417291,
+    "min_latitude": 1.38295883145817,
+    "max_latitude": 1.39998006491821
+  },
+  {
+    "subzone": "ANCHORVALE",
+    "planning_area": "SENGKANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.881451500961,
+    "max_longitude": 103.895958160257,
+    "min_latitude": 1.38657918926061,
+    "max_latitude": 1.40120639355032
+  },
+  {
+    "subzone": "SENGKANG WEST",
+    "planning_area": "SENGKANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.852388191451,
+    "max_longitude": 103.869173271934,
+    "min_latitude": 1.38820877424031,
+    "max_latitude": 1.40123180011301
+  },
+  {
+    "subzone": "FERNVALE",
+    "planning_area": "SENGKANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.868822849996,
+    "max_longitude": 103.88682090259,
+    "min_latitude": 1.38733294218739,
+    "max_latitude": 1.40140512970434
+  },
+  {
+    "subzone": "PUNGGOL FIELD",
+    "planning_area": "PUNGGOL",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.903583417291,
+    "max_longitude": 103.91921334515,
+    "min_latitude": 1.38592636032701,
+    "max_latitude": 1.40291168940615
+  },
+  {
+    "subzone": "YEW TEE",
+    "planning_area": "CHOA CHU KANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.742833705425,
+    "max_longitude": 103.752849550549,
+    "min_latitude": 1.39623322946123,
+    "max_latitude": 1.40548795522476
+  },
+  {
+    "subzone": "PASIR RIS WAFER FAB PARK",
+    "planning_area": "PASIR RIS",
+    "region": "EAST REGION",
+    "min_longitude": 103.914325830812,
+    "max_longitude": 103.943755071881,
+    "min_latitude": 1.37578164039737,
+    "max_latitude": 1.4011805924595
+  },
+  {
+    "subzone": "TRAFALGAR",
+    "planning_area": "HOUGANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.873109662602,
+    "max_longitude": 103.889441334039,
+    "min_latitude": 1.37296939395392,
+    "max_latitude": 1.38869405848137
+  },
+  {
+    "subzone": "TECK WHYE",
+    "planning_area": "CHOA CHU KANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.74857539238,
+    "max_longitude": 103.761240296186,
+    "min_latitude": 1.37627853404108,
+    "max_latitude": 1.38902835436675
+  },
+  {
+    "subzone": "CHOA CHU KANG CENTRAL",
+    "planning_area": "CHOA CHU KANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.741569578437,
+    "max_longitude": 103.753890875792,
+    "min_latitude": 1.37862478545246,
+    "max_latitude": 1.38980091335673
+  },
+  {
+    "subzone": "FAJAR",
+    "planning_area": "BUKIT PANJANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.76685253325,
+    "max_longitude": 103.775183690632,
+    "min_latitude": 1.37853533814808,
+    "max_latitude": 1.39046005397502
+  },
+  {
+    "subzone": "SENJA",
+    "planning_area": "BUKIT PANJANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.755129477449,
+    "max_longitude": 103.764434417418,
+    "min_latitude": 1.37966946108759,
+    "max_latitude": 1.3906734419922
+  },
+  {
+    "subzone": "SAUJANA",
+    "planning_area": "BUKIT PANJANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.762360509816,
+    "max_longitude": 103.770852188018,
+    "min_latitude": 1.3803749239968,
+    "max_latitude": 1.39080825284154
+  },
+  {
+    "subzone": "SELETAR HILLS",
+    "planning_area": "SERANGOON",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.85811147785,
+    "max_longitude": 103.876915723295,
+    "min_latitude": 1.3765500873205,
+    "max_latitude": 1.39111169772826
+  },
+  {
+    "subzone": "COMPASSVALE",
+    "planning_area": "SENGKANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.880727181093,
+    "max_longitude": 103.898508219552,
+    "min_latitude": 1.3793838832377,
+    "max_latitude": 1.39195309312703
+  },
+  {
+    "subzone": "YIO CHU KANG EAST",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.846408300187,
+    "max_longitude": 103.858546119157,
+    "min_latitude": 1.37580511585729,
+    "max_latitude": 1.39238508051245
+  },
+  {
+    "subzone": "YIO CHU KANG",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.841613323129,
+    "max_longitude": 103.85026086,
+    "min_latitude": 1.37674093809742,
+    "max_latitude": 1.39238663178172
+  },
+  {
+    "subzone": "LOYANG WEST",
+    "planning_area": "PASIR RIS",
+    "region": "EAST REGION",
+    "min_longitude": 103.963733853961,
+    "max_longitude": 103.97866499787,
+    "min_latitude": 1.36578420911555,
+    "max_latitude": 1.38763244829958
+  },
+  {
+    "subzone": "TAGORE",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.816735949415,
+    "max_longitude": 103.841661785308,
+    "min_latitude": 1.37771116270495,
+    "max_latitude": 1.39434085820421
+  },
+  {
+    "subzone": "PASIR RIS PARK",
+    "planning_area": "PASIR RIS",
+    "region": "EAST REGION",
+    "min_longitude": 103.938282736816,
+    "max_longitude": 103.966792637528,
+    "min_latitude": 1.37289359172815,
+    "max_latitude": 1.3890545258245
+  },
+  {
+    "subzone": "CHOA CHU KANG NORTH",
+    "planning_area": "CHOA CHU KANG",
+    "region": "WEST REGION",
+    "min_longitude": 103.740162979201,
+    "max_longitude": 103.753320828677,
+    "min_latitude": 1.38661265871603,
+    "max_latitude": 1.39676857017024
+  },
+  {
+    "subzone": "RIVERVALE",
+    "planning_area": "SENGKANG",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.896871158715,
+    "max_longitude": 103.914325830812,
+    "min_latitude": 1.37937979833313,
+    "max_latitude": 1.39687301923718
+  },
+  {
+    "subzone": "YIO CHU KANG NORTH",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.83385902483,
+    "max_longitude": 103.858112865153,
+    "min_latitude": 1.3878093582141,
+    "max_latitude": 1.39774277280228
+  },
+  {
+    "subzone": "YUNNAN",
+    "planning_area": "JURONG WEST",
+    "region": "WEST REGION",
+    "min_longitude": 103.684265082657,
+    "max_longitude": 103.705142257032,
+    "min_latitude": 1.33483238529602,
+    "max_latitude": 1.35507433023024
+  },
+  {
+    "subzone": "LORONG CHUAN",
+    "planning_area": "SERANGOON",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.856857524412,
+    "max_longitude": 103.871475386024,
+    "min_latitude": 1.34269686503065,
+    "max_latitude": 1.35551234779564
+  },
+  {
+    "subzone": "HONG KAH",
+    "planning_area": "JURONG WEST",
+    "region": "WEST REGION",
+    "min_longitude": 103.711974939869,
+    "max_longitude": 103.728161683197,
+    "min_latitude": 1.34286663169766,
+    "max_latitude": 1.35595168158052
+  },
+  {
+    "subzone": "SELETAR",
+    "planning_area": "SELETAR",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.868046410027,
+    "max_longitude": 103.896878887495,
+    "min_latitude": 1.40103194054593,
+    "max_latitude": 1.41877135952551
+  },
+  {
+    "subzone": "PANG SUA",
+    "planning_area": "SUNGEI KADUT",
+    "region": "NORTH REGION",
+    "min_longitude": 103.739549625035,
+    "max_longitude": 103.754931388766,
+    "min_latitude": 1.402816178126,
+    "max_latitude": 1.42226806811846
+  },
+  {
+    "subzone": "SELETAR AEROSPACE PARK",
+    "planning_area": "SELETAR",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.854766200171,
+    "max_longitude": 103.877984320042,
+    "min_latitude": 1.40046243832134,
+    "max_latitude": 1.42573811976619
+  },
+  {
+    "subzone": "KHATIB",
+    "planning_area": "YISHUN",
+    "region": "NORTH REGION",
+    "min_longitude": 103.8230796738,
+    "max_longitude": 103.835013861146,
+    "min_latitude": 1.41008315707532,
+    "max_latitude": 1.42629553258247
+  },
+  {
+    "subzone": "MANDAI WEST",
+    "planning_area": "MANDAI",
+    "region": "NORTH REGION",
+    "min_longitude": 103.771266273856,
+    "max_longitude": 103.805776584821,
+    "min_latitude": 1.40991226731615,
+    "max_latitude": 1.4265623239491
+  },
+  {
+    "subzone": "CONEY ISLAND",
+    "planning_area": "PUNGGOL",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.914576891573,
+    "max_longitude": 103.931173802815,
+    "min_latitude": 1.40013258698712,
+    "max_latitude": 1.4173627792563
+  },
+  {
+    "subzone": "YISHUN SOUTH",
+    "planning_area": "YISHUN",
+    "region": "NORTH REGION",
+    "min_longitude": 103.829723096843,
+    "max_longitude": 103.844983307479,
+    "min_latitude": 1.41002924968145,
+    "max_latitude": 1.42705714052186
+  },
+  {
+    "subzone": "RESERVOIR VIEW",
+    "planning_area": "SUNGEI KADUT",
+    "region": "NORTH REGION",
+    "min_longitude": 103.736997928316,
+    "max_longitude": 103.752869814101,
+    "min_latitude": 1.41579333937103,
+    "max_latitude": 1.44630977298958
+  },
+  {
+    "subzone": "WOODLANDS EAST",
+    "planning_area": "WOODLANDS",
+    "region": "NORTH REGION",
+    "min_longitude": 103.792423754835,
+    "max_longitude": 103.811700290817,
+    "min_latitude": 1.432293082762,
+    "max_latitude": 1.45033731822211
+  },
+  {
+    "subzone": "SEMBAWANG CENTRAL",
+    "planning_area": "SEMBAWANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.811700290817,
+    "max_longitude": 103.823713449548,
+    "min_latitude": 1.44098810241065,
+    "max_latitude": 1.45201649400367
+  },
+  {
+    "subzone": "GREENWOOD PARK",
+    "planning_area": "WOODLANDS",
+    "region": "NORTH REGION",
+    "min_longitude": 103.777288892971,
+    "max_longitude": 103.792423754835,
+    "min_latitude": 1.44114662566398,
+    "max_latitude": 1.45209408737008
+  },
+  {
+    "subzone": "SEMBAWANG EAST",
+    "planning_area": "SEMBAWANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.826416596488,
+    "max_longitude": 103.836694146216,
+    "min_latitude": 1.44191047344152,
+    "max_latitude": 1.45338381636231
+  },
+  {
+    "subzone": "SENOKO WEST",
+    "planning_area": "WOODLANDS",
+    "region": "NORTH REGION",
+    "min_longitude": 103.790372430058,
+    "max_longitude": 103.802911774062,
+    "min_latitude": 1.44605905431456,
+    "max_latitude": 1.45667100930226
+  },
+  {
+    "subzone": "MATILDA",
+    "planning_area": "PUNGGOL",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.886807478702,
+    "max_longitude": 103.906289056177,
+    "min_latitude": 1.39687301923718,
+    "max_latitude": 1.40789505247306
+  },
+  {
+    "subzone": "WATERWAY EAST",
+    "planning_area": "PUNGGOL",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.906289056177,
+    "max_longitude": 103.924235983231,
+    "min_latitude": 1.39361058124875,
+    "max_latitude": 1.40950361674181
+  },
+  {
+    "subzone": "GALI BATU",
+    "planning_area": "SUNGEI KADUT",
+    "region": "NORTH REGION",
+    "min_longitude": 103.751978366308,
+    "max_longitude": 103.774450261573,
+    "min_latitude": 1.38885730652052,
+    "max_latitude": 1.41187406584207
+  },
+  {
+    "subzone": "CRAWFORD",
+    "planning_area": "KALLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.859475414826,
+    "max_longitude": 103.86615315253,
+    "min_latitude": 1.30158224223129,
+    "max_latitude": 1.30711219395374
+  },
+  {
+    "subzone": "TUAS BAY",
+    "planning_area": "TUAS",
+    "region": "WEST REGION",
+    "min_longitude": 103.631495173623,
+    "max_longitude": 103.65820360108,
+    "min_latitude": 1.29097896166562,
+    "max_latitude": 1.33068990222551
+  },
+  {
+    "subzone": "TUAS VIEW",
+    "planning_area": "TUAS",
+    "region": "WEST REGION",
+    "min_longitude": 103.621746742086,
+    "max_longitude": 103.641691859105,
+    "min_latitude": 1.28851029706217,
+    "max_latitude": 1.32180307587491
+  },
+  {
+    "subzone": "BAHAR",
+    "planning_area": "WESTERN WATER CATCHMENT",
+    "region": "WEST REGION",
+    "min_longitude": 103.694098444862,
+    "max_longitude": 103.704261732195,
+    "min_latitude": 1.35507433023024,
+    "max_latitude": 1.36462546045663
+  },
+  {
+    "subzone": "CLEANTECH",
+    "planning_area": "WESTERN WATER CATCHMENT",
+    "region": "WEST REGION",
+    "min_longitude": 103.689779057141,
+    "max_longitude": 103.69788285426,
+    "min_latitude": 1.34606829830556,
+    "max_latitude": 1.35913110260018
+  },
+  {
+    "subzone": "LAKESIDE (BUSINESS)",
+    "planning_area": "JURONG EAST",
+    "region": "WEST REGION",
+    "min_longitude": 103.728440880357,
+    "max_longitude": 103.74576111131,
+    "min_latitude": 1.32337455659711,
+    "max_latitude": 1.33711903389654
+  },
+  {
+    "subzone": "PARK",
+    "planning_area": "TENGAH",
+    "region": "WEST REGION",
+    "min_longitude": 103.722963955316,
+    "max_longitude": 103.742056247327,
+    "min_latitude": 1.35794129441012,
+    "max_latitude": 1.37102344092442
+  },
+  {
+    "subzone": "BRICKLAND",
+    "planning_area": "TENGAH",
+    "region": "WEST REGION",
+    "min_longitude": 103.737550778725,
+    "max_longitude": 103.748486119011,
+    "min_latitude": 1.36260685935604,
+    "max_latitude": 1.37418625892406
+  },
+  {
+    "subzone": "FOREST HILL",
+    "planning_area": "TENGAH",
+    "region": "WEST REGION",
+    "min_longitude": 103.724612745586,
+    "max_longitude": 103.737801418401,
+    "min_latitude": 1.36807936702013,
+    "max_latitude": 1.37893425727459
+  },
+  {
+    "subzone": "PLANTATION",
+    "planning_area": "TENGAH",
+    "region": "WEST REGION",
+    "min_longitude": 103.728142626668,
+    "max_longitude": 103.738291740347,
+    "min_latitude": 1.34600303693591,
+    "max_latitude": 1.36080158020669
+  },
+  {
+    "subzone": "GARDEN",
+    "planning_area": "TENGAH",
+    "region": "WEST REGION",
+    "min_longitude": 103.723030418757,
+    "max_longitude": 103.734941927921,
+    "min_latitude": 1.35360920936584,
+    "max_latitude": 1.36231137448165
+  },
+  {
+    "subzone": "AIRPORT ROAD",
+    "planning_area": "PAYA LEBAR",
+    "region": "EAST REGION",
+    "min_longitude": 103.893497154504,
+    "max_longitude": 103.901437673607,
+    "min_latitude": 1.34677445583907,
+    "max_latitude": 1.35709894780377
+  },
+  {
+    "subzone": "NORTH COAST",
+    "planning_area": "WOODLANDS",
+    "region": "NORTH REGION",
+    "min_longitude": 103.764395617375,
+    "max_longitude": 103.797573335359,
+    "min_latitude": 1.43967888850961,
+    "max_latitude": 1.46204459808963
+  },
+  {
+    "subzone": "SPRINGLEAF",
+    "planning_area": "YISHUN",
+    "region": "NORTH REGION",
+    "min_longitude": 103.817163827272,
+    "max_longitude": 103.833637469254,
+    "min_latitude": 1.39291146661655,
+    "max_latitude": 1.4134110201552
+  },
+  {
+    "subzone": "PUNGGOL TOWN CENTRE",
+    "planning_area": "PUNGGOL",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.892934534304,
+    "max_longitude": 103.909738184847,
+    "min_latitude": 1.40291168940615,
+    "max_latitude": 1.41470552071083
+  },
+  {
+    "subzone": "PUNGGOL CANAL",
+    "planning_area": "PUNGGOL",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.909738184847,
+    "max_longitude": 103.929034998242,
+    "min_latitude": 1.39794141647453,
+    "max_latitude": 1.41617512350048
+  },
+  {
+    "subzone": "CENTRAL WATER CATCHMENT",
+    "planning_area": "CENTRAL WATER CATCHMENT",
+    "region": "NORTH REGION",
+    "min_longitude": 103.771681747062,
+    "max_longitude": 103.837076151969,
+    "min_latitude": 1.33578740826503,
+    "max_latitude": 1.41621404648798
+  },
+  {
+    "subzone": "SEMBAWANG STRAITS",
+    "planning_area": "SEMBAWANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.824393485593,
+    "max_longitude": 103.847813914038,
+    "min_latitude": 1.45138528710452,
+    "max_latitude": 1.46481587724888
+  },
+  {
+    "subzone": "THE WHARVES",
+    "planning_area": "SEMBAWANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.812760667991,
+    "max_longitude": 103.836402631489,
+    "min_latitude": 1.45841679567813,
+    "max_latitude": 1.47077483208609
+  },
+  {
+    "subzone": "SENOKO NORTH",
+    "planning_area": "SEMBAWANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.79179164934,
+    "max_longitude": 103.815867611816,
+    "min_latitude": 1.45552062056938,
+    "max_latitude": 1.47067394507432
+  },
+  {
+    "subzone": "CHANGI AIRPORT",
+    "planning_area": "CHANGI",
+    "region": "EAST REGION",
+    "min_longitude": 103.970674822376,
+    "max_longitude": 104.033444576845,
+    "min_latitude": 1.30945959222218,
+    "max_latitude": 1.3922601874373
+  },
+  {
+    "subzone": "PEOPLE'S PARK",
+    "planning_area": "OUTRAM",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.838141186973,
+    "max_longitude": 103.843354932579,
+    "min_latitude": 1.27980700573053,
+    "max_latitude": 1.28476692700367
+  },
+  {
+    "subzone": "MOUNTBATTEN",
+    "planning_area": "MARINE PARADE",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.883799857194,
+    "max_longitude": 103.898284756076,
+    "min_latitude": 1.29557889448629,
+    "max_latitude": 1.30954353669359
+  },
+  {
+    "subzone": "ALJUNIED",
+    "planning_area": "GEYLANG",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.874703501508,
+    "max_longitude": 103.89234684221,
+    "min_latitude": 1.30453938816488,
+    "max_latitude": 1.32293914611222
+  },
+  {
+    "subzone": "PULAU PUNGGOL TIMOR",
+    "planning_area": "SELETAR",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.882963273214,
+    "max_longitude": 103.897834301121,
+    "min_latitude": 1.41371654204338,
+    "max_latitude": 1.4254360613667
+  },
+  {
+    "subzone": "TURF CLUB",
+    "planning_area": "SUNGEI KADUT",
+    "region": "NORTH REGION",
+    "min_longitude": 103.752851594121,
+    "max_longitude": 103.771681747062,
+    "min_latitude": 1.40999116048735,
+    "max_latitude": 1.43142601179731
+  },
+  {
+    "subzone": "WOODLANDS SOUTH",
+    "planning_area": "WOODLANDS",
+    "region": "NORTH REGION",
+    "min_longitude": 103.786350382075,
+    "max_longitude": 103.803508351064,
+    "min_latitude": 1.42256624004037,
+    "max_latitude": 1.4352872055941
+  },
+  {
+    "subzone": "WOODGROVE",
+    "planning_area": "WOODLANDS",
+    "region": "NORTH REGION",
+    "min_longitude": 103.768893584365,
+    "max_longitude": 103.78848001712,
+    "min_latitude": 1.42150757970096,
+    "max_latitude": 1.43533266017871
+  },
+  {
+    "subzone": "YISHUN EAST",
+    "planning_area": "YISHUN",
+    "region": "NORTH REGION",
+    "min_longitude": 103.838726529596,
+    "max_longitude": 103.854975995143,
+    "min_latitude": 1.41839912184422,
+    "max_latitude": 1.43717631702738
+  },
+  {
+    "subzone": "MURAI",
+    "planning_area": "WESTERN WATER CATCHMENT",
+    "region": "WEST REGION",
+    "min_longitude": 103.638793474676,
+    "max_longitude": 103.746017612841,
+    "min_latitude": 1.32798785772944,
+    "max_latitude": 1.43506280381839
+  },
+  {
+    "subzone": "PULAU PUNGGOL BARAT",
+    "planning_area": "SELETAR",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.867244061106,
+    "max_longitude": 103.888123736167,
+    "min_latitude": 1.41731182806706,
+    "max_latitude": 1.43199038605029
+  },
+  {
+    "subzone": "PULAU SELETAR",
+    "planning_area": "SIMPANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.857479185856,
+    "max_longitude": 103.872651867743,
+    "min_latitude": 1.43533600849437,
+    "max_latitude": 1.45275928798492
+  },
+  {
+    "subzone": "ADMIRALTY",
+    "planning_area": "SEMBAWANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.819069193074,
+    "max_longitude": 103.83189703146,
+    "min_latitude": 1.44500034511833,
+    "max_latitude": 1.45950871631992
+  },
+  {
+    "subzone": "LIM CHU KANG",
+    "planning_area": "LIM CHU KANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.69301472826,
+    "max_longitude": 103.743596138723,
+    "min_latitude": 1.41106801748416,
+    "max_latitude": 1.45130627136732
+  },
+  {
+    "subzone": "SIMPANG NORTH",
+    "planning_area": "SIMPANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.833063944241,
+    "max_longitude": 103.858273235653,
+    "min_latitude": 1.43552760497839,
+    "max_latitude": 1.4601685146129
+  },
+  {
+    "subzone": "SENOKO SOUTH",
+    "planning_area": "SEMBAWANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.800496797263,
+    "max_longitude": 103.8127162266,
+    "min_latitude": 1.44427776042816,
+    "max_latitude": 1.46244195086355
+  },
+  {
+    "subzone": "SEMBAWANG NORTH",
+    "planning_area": "SEMBAWANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.809500903006,
+    "max_longitude": 103.822778770774,
+    "min_latitude": 1.44753604671759,
+    "max_latitude": 1.46400230538383
+  },
+  {
+    "subzone": "TANJONG IRAU",
+    "planning_area": "SIMPANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.846145180886,
+    "max_longitude": 103.858370039766,
+    "min_latitude": 1.44856966458858,
+    "max_latitude": 1.46052388333954
+  },
+  {
+    "subzone": "YISHUN WEST",
+    "planning_area": "YISHUN",
+    "region": "NORTH REGION",
+    "min_longitude": 103.825797275844,
+    "max_longitude": 103.83537544462,
+    "min_latitude": 1.42286245846617,
+    "max_latitude": 1.44191047344152
+  },
+  {
+    "subzone": "WOODLANDS REGIONAL CENTRE",
+    "planning_area": "WOODLANDS",
+    "region": "NORTH REGION",
+    "min_longitude": 103.779281711529,
+    "max_longitude": 103.789041222974,
+    "min_latitude": 1.43435932277003,
+    "max_latitude": 1.44359078891532
+  },
+  {
+    "subzone": "NORTH-EASTERN ISLANDS",
+    "planning_area": "NORTH-EASTERN ISLANDS",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.92637323791,
+    "max_longitude": 104.088483065163,
+    "min_latitude": 1.33750605037086,
+    "max_latitude": 1.44069791371148
+  },
+  {
+    "subzone": "SIMPANG SOUTH",
+    "planning_area": "SIMPANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.846302483298,
+    "max_longitude": 103.865362148079,
+    "min_latitude": 1.42447830842098,
+    "max_latitude": 1.44387815859106
+  },
+  {
+    "subzone": "NORTHLAND",
+    "planning_area": "YISHUN",
+    "region": "NORTH REGION",
+    "min_longitude": 103.83072384541,
+    "max_longitude": 103.845660108745,
+    "min_latitude": 1.43013558621944,
+    "max_latitude": 1.44561614164144
+  },
+  {
+    "subzone": "MIDVIEW",
+    "planning_area": "WOODLANDS",
+    "region": "NORTH REGION",
+    "min_longitude": 103.785059275756,
+    "max_longitude": 103.795899271582,
+    "min_latitude": 1.43382062220997,
+    "max_latitude": 1.44605905431456
+  },
+  {
+    "subzone": "WOODLANDS WEST",
+    "planning_area": "WOODLANDS",
+    "region": "NORTH REGION",
+    "min_longitude": 103.768449119567,
+    "max_longitude": 103.7832538887,
+    "min_latitude": 1.43142601179731,
+    "max_latitude": 1.44677364813777
+  },
+  {
+    "subzone": "SEMBAWANG SPRINGS",
+    "planning_area": "SEMBAWANG",
+    "region": "NORTH REGION",
+    "min_longitude": 103.817891606622,
+    "max_longitude": 103.83072384541,
+    "min_latitude": 1.43504876484704,
+    "max_latitude": 1.44799225325349
+  },
+  {
+    "subzone": "KRANJI",
+    "planning_area": "SUNGEI KADUT",
+    "region": "NORTH REGION",
+    "min_longitude": 103.750620103598,
+    "max_longitude": 103.768893584365,
+    "min_latitude": 1.42226806811846,
+    "max_latitude": 1.4449598985929
+  },
+  {
+    "subzone": "PLAB",
+    "planning_area": "PAYA LEBAR",
+    "region": "EAST REGION",
+    "min_longitude": 103.897939725263,
+    "max_longitude": 103.925119239605,
+    "min_latitude": 1.33870037197791,
+    "max_latitude": 1.38017435336295
+  },
+  {
+    "subzone": "MANDAI EAST",
+    "planning_area": "MANDAI",
+    "region": "NORTH REGION",
+    "min_longitude": 103.794969199538,
+    "max_longitude": 103.826852493762,
+    "min_latitude": 1.4134110201552,
+    "max_latitude": 1.44427776042816
+  },
+  {
+    "subzone": "NEE SOON",
+    "planning_area": "YISHUN",
+    "region": "NORTH REGION",
+    "min_longitude": 103.805776584821,
+    "max_longitude": 103.8230796738,
+    "min_latitude": 1.39434085820421,
+    "max_latitude": 1.41542854682013
+  },
+  {
+    "subzone": "UPPER THOMSON",
+    "planning_area": "BISHAN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.818537169799,
+    "max_longitude": 103.842966122963,
+    "min_latitude": 1.34199593644657,
+    "max_latitude": 1.36799422300831
+  },
+  {
+    "subzone": "SHANGRI-LA",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.830941247587,
+    "max_longitude": 103.845420246593,
+    "min_latitude": 1.36428676642962,
+    "max_latitude": 1.37154602581757
+  },
+  {
+    "subzone": "TOWNSVILLE",
+    "planning_area": "ANG MO KIO",
+    "region": "NORTH-EAST REGION",
+    "min_longitude": 103.842966631553,
+    "max_longitude": 103.852926641624,
+    "min_latitude": 1.36032698165039,
+    "max_latitude": 1.36909081165142
+  },
+  {
+    "subzone": "MARYMOUNT",
+    "planning_area": "BISHAN",
+    "region": "CENTRAL REGION",
+    "min_longitude": 103.838994255135,
+    "max_longitude": 103.852267281868,
+    "min_latitude": 1.3434898595355,
+    "max_latitude": 1.36428680712807
+  },
+  {
+    "subzone": "TUAS VIEW EXTENSION",
+    "planning_area": "TUAS",
+    "region": "WEST REGION",
+    "min_longitude": 103.605700705134,
+    "max_longitude": 103.658575326731,
+    "min_latitude": 1.21024006127197,
+    "max_latitude": 1.30810284808711
+  }
+]

@@ -1,0 +1,1 @@
+- footfall data in db will be static --> need some sort of cron job to refresh weekly or monthly

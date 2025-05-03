@@ -1,0 +1,320 @@
+{
+  "activity.community_center": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "activity.sport_club": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.supermarket": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.marketplace": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.shopping_mall": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.department_store": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.elektronics": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.outdoor_and_sport": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.vehicle": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.hobby": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.books": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.gift_and_souvenir": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.clothing": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.clothing.shoes": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.clothing.clothes": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.clothing.sport": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.bag": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.health_and_beauty": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.health_and_beauty.pharmacy": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.health_and_beauty.optician": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.health_and_beauty.medical_supply": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.health_and_beauty.hearing_aids": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.health_and_beauty.cosmetics": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.toy_and_game": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.pet": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.food_and_drink": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.food_and_drink.bakery": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "commercial.second_hand": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "catering.restaurant": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "catering.fast_food": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "catering.cafe": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "education.school": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "education.driving_school": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "education.music_school": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "education.language_school": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "education.library": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "education.college": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "education.university": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "childcare": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "entertainment.culture.theatre": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "entertainment.culture.arts_centre": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "entertainment.culture.gallery": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "healthcare.clinic_or_praxis": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "healthcare.dentist.orthodontics": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "healthcare.hospital": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "healthcare.pharmacy": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "heritage.unesco": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "leisure.spa": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "service.vehicle.fuel": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "service.vehicle.car_wash": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "service.vehicle.charging_station": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "service.vehicle.repair": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ],
+  "service.beauty": [
+    "NW",
+    "NE",
+    "SW",
+    "SE"
+  ]
+}
