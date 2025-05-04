@@ -1,426 +1,426 @@
 subzone,sub_category,listing_type,average_price
-CECIL,generic_office,rent,25822.05
-CITY HALL,generic_office,rent,9279.00
-KALLANG WAY,generic_office,rent,15375.00
-BUKIT BATOK SOUTH,fnb,rent,4700.00
-KAMPONG TIONG BAHRU,generic_office,rent,8000.00
-HILLVIEW,general_industrial,rent,6800.00
-KALLANG WAY,warehouse,rent,7096.33
-KAMPONG GLAM,retail_shop,rent,8299.71
-XILIN,generic_office,rent,29358.91
-DHOBY GHAUT,generic_office,rent,100450.00
-CHINATOWN,retail_shop,rent,13411.56
-BOULEVARD,generic_retail,rent,9444.00
-BOULEVARD,retail_medical_suite,rent,6000.00
-CHINATOWN,generic_office,rent,6220.00
-ALEXANDRA HILL,retail_shop,rent,1900.00
-KAMPONG UBI,general_industrial,rent,5390.75
-BEDOK NORTH,retail_shop,rent,3500.00
-ONE NORTH,generic_office,rent,1894.00
-UPPER THOMSON,generic_office,rent,1800.00
-CRAWFORD,retail_shop,rent,3497.00
-TAMPINES EAST,generic_office,rent,9169.33
-JOO SENG,general_industrial,rent,11038.67
-SERANGOON NORTH IND ESTATE,general_industrial,rent,4748.50
-KATONG,retail_shop,rent,5500.00
-MOULMEIN,generic_office,rent,9591.67
-BRADDELL,generic_office,rent,11213.50
-PEARL'S HILL,retail_medical_suite,rent,5680.00
-CHANGI POINT,retail_shop,rent,6650.00
-BUKIT MERAH,generic_office,rent,3744.60
-KALLANG WAY,factory,rent,3609.20
-TUKANG,warehouse,rent,39000.00
-PASIR PANJANG 1,retail_shop,rent,4566.67
-TAI SENG,generic_office,rent,57499.50
-WOODLANDS REGIONAL CENTRE,generic_office,rent,18325.12
-ALJUNIED,factory,rent,12700.00
-BOULEVARD,retail_shop,rent,8677.78
-YUHUA WEST,retail_shop,rent,5150.00
-LAVENDER,retail_shop,rent,8162.22
-CORONATION ROAD,retail_shop,rent,10000.00
-LITTLE INDIA,retail_shop,rent,1600.00
-ALJUNIED,retail_shop,rent,8154.17
-BUKIT MERAH,retail_shop,rent,9900.00
-BOULEVARD,generic_office,rent,3909.41
-NORTHLAND,warehouse,rent,25546.67
-PANDAN,general_industrial,rent,1945.00
-ANAK BUKIT,retail_shop,rent,1250.00
-RESERVOIR VIEW,dormitory,rent,590.00
-WOODLANDS EAST,retail_shop,rent,750.00
-GEYLANG EAST,generic_office,sale,1196666.67
-PEARL'S HILL,generic_office,rent,13087.08
-KALLANG WAY,general_industrial,rent,4502.44
-PANDAN,factory,rent,9991.29
-BOAT QUAY,generic_office,rent,6272.86
-GALI BATU,factory,rent,4000.00
-TOA PAYOH WEST,generic_office,rent,23268.00
-TAI SENG,factory,rent,18987.50
-MOULMEIN,generic_office,sale,2000000.00
-ALEXANDRA HILL,generic_office,rent,4360.71
-NORTHLAND,general_industrial,sale,800000.00
-JURONG RIVER,warehouse,rent,26233.33
-KALLANG BAHRU,generic_office,rent,15563.91
-FARRER PARK,retail_shop,sale,8300000.00
-TUAS VIEW,general_industrial,rent,12600.00
-JOO KOON,general_industrial,rent,26000.00
-TOH TUCK,warehouse,rent,33100.00
-TUAS VIEW,factory,rent,10375.00
-TUAS VIEW EXTENSION,factory,rent,35137.00
-TUAS VIEW EXTENSION,general_industrial,rent,43000.00
-VICTORIA,retail_shop,sale,1327000.00
-VICTORIA,generic_office,rent,12447.83
-BUKIT HO SWEE,retail_shop,rent,1900.00
-CHONG BOON,retail_shop,rent,7650.00
-TAMPINES NORTH,general_industrial,rent,5765.00
-KAMPONG TIONG BAHRU,retail_fnb,rent,16800.00
-TUAS VIEW,dormitory,sale,25000000.00
-SENNETT,retail_fnb,sale,2460000.00
-XILIN,factory,rent,13898.00
-ALEXANDRA HILL,general_industrial,rent,10817.25
 ALEXANDRA HILL,factory,rent,8322.29
-PUNGGOL FIELD,retail_fnb,rent,9600.00
-LOYANG WEST,generic_office,sale,6000000.00
-TAGORE,factory,rent,6800.00
-BALESTIER,retail_shop,rent,6740.00
-KAMPONG GLAM,retail_shop,sale,9653333.33
-BENCOOLEN,generic_retail,rent,2700000.00
-CITY HALL,retail_fnb,rent,16870.00
-BUKIT MERAH,retail_shop,sale,2680000.00
-KRANJI,general_industrial,rent,3300.00
-ROBERTSON QUAY,retail_shop,sale,798000.00
-EVERTON PARK,retail_fnb,rent,9250.00
-ANSON,generic_office,rent,30134.05
-BEDOK RESERVOIR,retail_shop,rent,6600.00
-KAMPONG UBI,warehouse,rent,4683.00
-GEYLANG EAST,generic_office,rent,4329.75
-UPPER THOMSON,retail_shop,rent,10770.50
-ALEXANDRA HILL,warehouse,rent,4026.00
-BUKIT BATOK SOUTH,warehouse,rent,11605.00
-EVERTON PARK,retail_shop,rent,3300.00
-GEYLANG EAST,factory,rent,3643.67
-TUAS VIEW EXTENSION,warehouse,rent,47710.50
-CITY TERMINALS,warehouse,rent,6879.50
-SELEGIE,retail_shop,rent,2200.00
-TOA PAYOH CENTRAL,generic_office,rent,19500.00
-KALLANG BAHRU,general_industrial,rent,38620.80
-TELOK BLANGAH WAY,retail_shop,rent,3000.00
-BRAS BASAH,generic_office,rent,29407.67
-BUGIS,generic_office,rent,2612.00
-HONG KAH,retail_shop,rent,4625.00
-BISHAN EAST,retail_shop,rent,5800.00
-YISHUN SOUTH,retail_shop,rent,12000.00
-TOA PAYOH CENTRAL,retail_shop,rent,7833.33
-CLEMENTI CENTRAL,retail_shop,rent,7985.71
-BUKIT BATOK SOUTH,showroom,rent,15000.00
-GEYLANG EAST,retail_shop,rent,18380.00
-ANAK BUKIT,retail_shop,sale,1180000.00
-TEBAN GARDENS,retail_shop,sale,2100000.00
-SENNETT,retail_shop,rent,16000.00
-BRAS BASAH,retail_fnb,rent,41340.00
-DEPOT ROAD,generic_retail,sale,3200000.00
-MARINA CENTRE,generic_office,sale,7418950.00
-TOH TUCK,general_industrial,rent,600.00
-MARINA CENTRE,generic_office,rent,35729.36
-LAVENDER,retail_shop,sale,8250000.00
-KEMBANGAN,factory,rent,8266.67
-INTERNATIONAL BUSINESS PARK,generic_office,rent,28600.67
-LOYANG WEST,generic_office,rent,18000.00
-KENT RIDGE,generic_office,rent,17703.00
-CITY HALL,retail_shop,rent,8000.00
-BUKIT HO SWEE,generic_office,rent,68321.00
-CHINATOWN,retail_shop,sale,42400000.00
 ALEXANDRA HILL,fnb,rent,17700.00
-BOAT QUAY,generic_retail,rent,15800.00
-ALEXANDRA NORTH,factory,sale,5356500.00
-OXLEY,generic_office,rent,4800.00
-KAKI BUKIT,factory,rent,3298.25
-CLEMENTI NORTH,retail_shop,rent,2680.00
-FORT CANNING,generic_office,rent,5100.00
-SENOKO WEST,generic_office,rent,1000.00
-KALLANG WAY,showroom,rent,14760.00
-ALJUNIED,generic_office,rent,4302.20
-BENCOOLEN,generic_office,sale,1100000.00
-PASIR PANJANG 2,generic_office,rent,18142.12
-RAFFLES PLACE,generic_office,rent,25721.43
-GEYLANG EAST,retail_fnb,rent,8858.67
-LORONG AH SOO,retail_shop,rent,1500.00
-BOULEVARD,retail_fnb,rent,15102.67
-TUAS BAY,factory,rent,73628.00
-PENJURU CRESCENT,general_industrial,rent,28000.00
-SUNGEI ROAD,retail_shop,sale,1200000.00
-BEDOK SOUTH,retail_shop,sale,3200000.00
-TELOK BLANGAH RISE,retail_shop,sale,1849999.00
-TUAS BAY,warehouse,rent,639437.50
-PEOPLE'S PARK,generic_retail,rent,2900.00
-SENOKO WEST,warehouse,rent,2600.00
-KAMPONG UBI,generic_office,rent,2807.00
-CHENG SAN,retail_shop,sale,2750000.00
-BUGIS,retail_shop,sale,1380000.00
-KAKI BUKIT,factory,sale,800000.00
-FERNVALE,generic_retail,rent,3000.00
-TIONG BAHRU STATION,retail_shop,rent,4000.00
-BALESTIER,general_industrial,sale,3561866.67
-FARRER PARK,generic_office,rent,4500.00
-ALJUNIED,retail_shop,sale,5623333.33
-JOO SENG,retail_shop,rent,6500.00
-YIO CHU KANG WEST,retail_shop,rent,2800.00
-KAMPONG JAVA,retail_shop,rent,3000.00
-KAKI BUKIT,general_industrial,sale,1790000.00
-CLARKE QUAY,generic_office,sale,8313000.00
-PEI CHUN,retail_shop,rent,2750.00
-KAKI BUKIT,retail_shop,rent,4947.50
-INSTITUTION HILL,generic_office,rent,7500.00
-LORONG CHUAN,general_industrial,rent,28105.33
-LOYANG WEST,factory,rent,8807.00
-TUKANG,factory,rent,15000.00
-MEI CHIN,retail_shop,rent,5000.00
-SENOKO WEST,factory,rent,5200.00
-NORTHLAND,factory,rent,32500.00
-SENOKO WEST,general_industrial,rent,2566.67
-WOODLANDS EAST,general_industrial,rent,4560.00
-PANG SUA,factory,rent,2169.00
-GALI BATU,general_industrial,rent,3650.00
-SOMERSET,retail_shop,rent,5808.33
-LOYANG WEST,general_industrial,rent,4979.50
-TUAS VIEW,factory,sale,750000.00
-SEMBAWANG NORTH,general_industrial,rent,3800.00
-SEMBAWANG NORTH,factory,rent,13655.67
-SEMBAWANG CENTRAL,general_industrial,rent,4000.00
-BUKIT MERAH,factory,rent,6530.00
-CENTRAL SUBZONE,retail_fnb,rent,50000.00
-CLARKE QUAY,retail_fnb,rent,4140.67
-CLARKE QUAY,generic_office,rent,3150.00
-CLARKE QUAY,retail_shop,rent,3476.00
-KIAN TECK,general_industrial,rent,13000.00
-MARYMOUNT,warehouse,rent,30000.00
-SENOKO NORTH,factory,sale,4600000.00
-QUEENSWAY,retail_shop,rent,1800.00
-JOO SENG,factory,sale,1688888.00
-JURONG GATEWAY,generic_office,rent,5500.00
-MOULMEIN,retail_medical_suite,rent,11200.00
-SENOKO NORTH,factory,rent,120000.00
-BOAT QUAY,retail_shop,rent,7934.67
-BUGIS,retail_shop,rent,17500.00
-MARYMOUNT,general_industrial,sale,2600000.00
-ALJUNIED,generic_retail,rent,1200.00
-SEMBAWANG CENTRAL,factory,rent,4170.00
-JOO SENG,factory,rent,6328.57
-ALJUNIED,general_industrial,rent,3699.67
-GEYLANG EAST,retail_shop,sale,1480000.00
-SOMERSET,retail_fnb,rent,7396.00
-CHINATOWN,retail_fnb,rent,27045.29
-KAKI BUKIT,generic_office,rent,1100.00
-SERANGOON NORTH IND ESTATE,factory,rent,6386.50
-FRANKEL,retail_fnb,rent,7579.00
-MACPHERSON,retail_shop,rent,6165.00
-SENOKO SOUTH,factory,rent,600.00
-MOUNTBATTEN,dormitory,rent,650.00
-LOYANG WEST,general_industrial,sale,1664444.00
-BALESTIER,retail_shop,sale,4981500.00
-BALESTIER,retail_mall_shop,sale,906000.00
-KATONG,retail_shop,sale,590000.00
-TUAS VIEW,warehouse,sale,730000.00
+ALEXANDRA HILL,general_industrial,rent,10817.25
 ALEXANDRA HILL,general_industrial,sale,2760000.00
-BOULEVARD,retail_shop,sale,4666666.67
-KAKI BUKIT,retail_shop,sale,5600000.00
-JOO SENG,general_industrial,sale,2994500.00
-TAI SENG,general_industrial,sale,2199999.00
-SERANGOON NORTH,generic_office,sale,750000.00
-CHATSWORTH,retail_shop,rent,30000.00
-KAMPONG UBI,warehouse,sale,1250000.00
-SELEGIE,generic_office,sale,2784000.00
-PENJURU CRESCENT,warehouse,rent,108000.00
-KAMPONG UBI,retail_shop,sale,2800000.00
-NATURE RESERVE,retail_fnb,rent,12770.00
-SOMERSET,retail_shop,sale,7500000.00
-KEMBANGAN,general_industrial,rent,4000.00
-MARYMOUNT,factory,rent,900.00
-GUILIN,general_industrial,rent,1100.00
-XILIN,retail_fnb,rent,16756.00
-CHINA SQUARE,generic_office,rent,3013.67
-LIU FANG,factory,rent,2900.00
-SERANGOON NORTH,factory,rent,19362.50
-SUNGEI ROAD,generic_office,rent,6400.00
-BUKIT MERAH,general_industrial,rent,4933.33
-ALEXANDRA NORTH,general_industrial,rent,19800.00
-ANAK BUKIT,retail_mall_shop,rent,12000.00
-BUKIT MERAH,showroom,rent,15000.00
-BUGIS,generic_retail,sale,880000.00
-TAI SENG,retail_shop,sale,2725000.00
-CITY HALL,retail_mall_shop,sale,910000.00
-CECIL,generic_office,sale,9870000.00
-GALI BATU,factory,sale,2363386.00
-ANAK BUKIT,generic_office,sale,2400000.00
-KIAN TECK,general_industrial,sale,580000.00
-MACPHERSON,retail_shop,sale,1880000.00
-INSTITUTION HILL,retail_shop,rent,7000.00
-LORONG CHUAN,generic_office,rent,10788.00
-KENT RIDGE,generic_retail,sale,5498888.00
-SERANGOON NORTH,general_industrial,rent,41780.40
-XILIN,ebiz,rent,19421.00
-LEONIE HILL,generic_retail,rent,9000.00
-TRAFALGAR,retail_shop,rent,6851.00
-BENDEMEER,generic_retail,rent,6000.00
-SERANGOON NORTH,generic_office,rent,2600.00
-GALI BATU,fnb,rent,5500.00
-KRANJI,factory,rent,4490.00
-LORONG AH SOO,generic_office,rent,1800.00
-SERANGOON GARDEN,generic_retail,rent,11862.50
-KALLANG BAHRU,factory,rent,6228.00
-YISHUN EAST,retail_shop,rent,6500.00
-MARITIME SQUARE,generic_office,rent,3950.00
-CENTRAL SUBZONE,generic_office,rent,2358.00
-SENOKO SOUTH,warehouse,rent,6200.00
-PASIR PANJANG 1,retail_fnb,rent,4800.00
-WOODLANDS REGIONAL CENTRE,warehouse,rent,11950.00
-KAMPONG UBI,factory,rent,17200.00
-CHANGI WEST,warehouse,rent,8277.50
-MARINE PARADE,retail_shop,sale,2190375.00
-VICTORIA,generic_office,sale,4487250.00
-LAVENDER,generic_office,rent,4935.20
-PULAU PUNGGOL TIMOR,dormitory,rent,650.00
-CRAWFORD,retail_shop,sale,1475000.00
-KAKI BUKIT,general_industrial,rent,485.00
-CHONG BOON,warehouse,rent,9805.00
-MARITIME SQUARE,generic_office,sale,758000.00
-HOLLAND DRIVE,retail_shop,sale,19000000.00
-BENCOOLEN,retail_mall_shop,sale,1700000.00
-BOULEVARD,retail_mall_shop,sale,2300000.00
-PEOPLE'S PARK,retail_shop,sale,2800000.00
-NICOLL,generic_office,rent,24520.00
-TELOK BLANGAH DRIVE,retail_shop,sale,2700000.00
-TUAS VIEW EXTENSION,dormitory,rent,460.00
-SOMERSET,generic_office,rent,45272.17
-UPPER THOMSON,retail_shop,sale,1700000.00
-BALESTIER,warehouse,rent,5200.00
-SHANGRI-LA,retail_shop,rent,4033.00
-VICTORIA,retail_fnb,rent,72400.00
-UPPER THOMSON,generic_retail,sale,1200000.00
-KALLANG BAHRU,general_industrial,sale,1200000.00
-JOO KOON,dormitory,rent,600.00
-BUKIT HO SWEE,retail_shop,sale,680000.00
-BUKIT BATOK SOUTH,generic_office,rent,2700.00
-CHINA SQUARE,retail_shop,rent,11248.00
-SEMBAWANG SPRINGS,retail_shop,rent,19000.00
-GALI BATU,warehouse,rent,820.00
-XILIN,warehouse,rent,13091.00
-JURONG RIVER,factory,rent,13800.00
-CRAWFORD,generic_retail,rent,5049.00
-TAMPINES EAST,retail_shop,rent,13399.50
-TAI SENG,retail_shop,rent,1999.00
-MOUNT EMILY,retail_shop,rent,12800.00
-CLIFFORD PIER,generic_retail,rent,2891.33
-PASIR PANJANG 1,retail_shop,sale,1950000.00
-TECK WHYE,retail_shop,rent,4000.00
-XILIN,dormitory,rent,650.00
-KALLANG BAHRU,warehouse,rent,7043.50
-BUKIT BATOK SOUTH,general_industrial,rent,14180.00
-PANDAN,generic_office,rent,2250.00
-NORTHLAND,general_industrial,rent,36000.00
-UPPER THOMSON,general_industrial,sale,7500000.00
-CITY HALL,generic_office,sale,6800000.00
-ROBERTSON QUAY,retail_shop,rent,30000.00
-TAGORE,dormitory,rent,650.00
+ALEXANDRA HILL,generic_office,rent,4360.71
 ALEXANDRA HILL,retail_fnb,rent,15000.00
-CHIN BEE,factory,rent,62649.00
-TAMPINES WEST,factory,rent,12000.00
-SELETAR AEROSPACE PARK,generic_office,rent,5000.00
-DEFU INDUSTRIAL PARK,warehouse,rent,4372.50
-CRAWFORD,generic_office,rent,2244.00
-BALESTIER,warehouse,sale,2647250.00
-EVERTON PARK,generic_office,rent,1608.00
-CITY HALL,retail_shop,sale,980000.00
-ROBERTSON QUAY,retail_fnb,rent,21000.00
-RAFFLES PLACE,generic_retail,rent,54686.00
-BEDOK SOUTH,retail_fnb,rent,4500.00
-TOH TUCK,factory,rent,9966.67
-WOODLANDS EAST,factory,rent,50000.00
-PEARL'S HILL,retail_shop,rent,3800.00
-GUL CIRCLE,warehouse,rent,77500.00
-YUHUA EAST,retail_shop,rent,1950.00
-SIMEI,warehouse,rent,24000.00
-FRANKEL,retail_shop,rent,7750.00
-HILLVIEW,fnb,sale,2500.00
+ALEXANDRA HILL,retail_shop,rent,1900.00
 ALEXANDRA HILL,retail_shop,sale,1350000.00
-MACKENZIE,generic_office,rent,4099.62
-TECK WHYE,retail_shop,sale,3900000.00
-KEBUN BAHRU,retail_shop,sale,2300000.00
-BENCOOLEN,retail_shop,sale,1080000.00
-GALI BATU,showroom,rent,3200.00
-KAKI BUKIT,dormitory,rent,650.00
-JOO SENG,generic_office,rent,9275.00
-BOULEVARD,retail_mall_shop,rent,3500.00
-JURONG GATEWAY,generic_office,sale,8000000.00
-CHATSWORTH,generic_office,rent,9586.00
-KAMPONG TIONG BAHRU,retail_fnb,sale,10800000.00
-KEMBANGAN,factory,sale,1880000.00
-SUNGEI ROAD,generic_office,sale,1680000.00
-WOODLANDS REGIONAL CENTRE,generic_office,sale,2341330.00
-TAMPINES WEST,retail_shop,rent,18000.00
-YIO CHU KANG WEST,generic_office,sale,1000000.00
-LOYANG WEST,factory,sale,6000000.00
-TOH TUCK,generic_office,rent,10000.00
-PANDAN,warehouse,rent,50000.00
-BENCOOLEN,retail_shop,rent,2900.00
-BRADDELL,warehouse,rent,6194.00
-PANG SUA,dormitory,rent,590.00
-TUAS VIEW,dormitory,rent,500.00
-SELEGIE,generic_office,rent,2100.00
-BEDOK SOUTH,retail_shop,rent,8300.00
-MARYMOUNT,general_industrial,rent,950.00
-WOODGROVE,retail_shop,rent,3000.00
-YUHUA WEST,retail_shop,sale,2900000.00
+ALEXANDRA HILL,warehouse,rent,4026.00
+ALEXANDRA NORTH,factory,sale,5356500.00
+ALEXANDRA NORTH,general_industrial,rent,19800.00
 ALJUNIED,ebiz,rent,1968.00
-TUAS BAY,general_industrial,rent,84506.00
-UPPER THOMSON,retail_fnb,sale,1700000.00
-NORTHLAND,generic_office,rent,41500.00
-KAMPONG GLAM,generic_office,rent,18888.00
-YIO CHU KANG,factory,rent,61840.00
-TIONG BAHRU STATION,generic_office,rent,28234.00
-BUGIS,retail_fnb,rent,30500.00
-JOO SENG,warehouse,rent,7894.50
-PHILLIP,generic_office,rent,25000.00
-GUL BASIN,general_industrial,sale,18000000.00
-MARINE PARADE,retail_shop,rent,2100.00
-LORONG 8 TOA PAYOH,generic_office,rent,66000.00
-VICTORIA,retail_fnb,sale,3450000.00
-LITTLE INDIA,retail_shop,sale,7880000.00
-HILLVIEW,retail_fnb,rent,27000.00
-LORONG CHUAN,retail_shop,rent,13425.00
-CRAWFORD,retail_fnb,rent,18888.00
-TANJONG PAGAR,generic_office,sale,1490000.00
-BRAS BASAH,retail_shop,rent,28416.00
+ALJUNIED,factory,rent,12700.00
+ALJUNIED,general_industrial,rent,3699.67
+ALJUNIED,generic_office,rent,4302.20
+ALJUNIED,generic_retail,rent,1200.00
+ALJUNIED,retail_shop,rent,8154.17
+ALJUNIED,retail_shop,sale,5623333.33
+ALJUNIED,showroom,rent,10800.00
+ANAK BUKIT,generic_office,sale,2400000.00
+ANAK BUKIT,retail_mall_shop,rent,12000.00
+ANAK BUKIT,retail_shop,rent,1250.00
+ANAK BUKIT,retail_shop,sale,1180000.00
 ANG MO KIO TOWN CENTRE,retail_shop,sale,1906000.00
-TUAS VIEW,general_industrial,sale,1300000.00
-CECIL,retail_fnb,rent,22815.00
-BOAT QUAY,retail_fnb,rent,105420.00
-BUKIT BATOK SOUTH,generic_office,sale,620000.00
-SEMBAWANG CENTRAL,general_industrial,sale,490000.00
-LAVENDER,retail_fnb,rent,53163.00
-PASIR PANJANG 2,factory,rent,5998.00
-QUEENSWAY,retail_shop,sale,950000.00
-SENNETT,generic_retail,sale,3856000.00
-INSTITUTION HILL,retail_fnb,rent,16000.00
-HOLLAND DRIVE,generic_office,rent,67500.00
+ANSON,generic_office,rent,30134.05
+BALESTIER,general_industrial,sale,3561866.67
+BALESTIER,retail_mall_shop,sale,906000.00
+BALESTIER,retail_shop,rent,6740.00
+BALESTIER,retail_shop,sale,4981500.00
+BALESTIER,warehouse,rent,5200.00
+BALESTIER,warehouse,sale,2647250.00
+BEDOK NORTH,retail_shop,rent,3500.00
 BEDOK NORTH,retail_shop,sale,3288888.00
-UPPER THOMSON,fnb,sale,4980000.00
-NATIONAL UNIVERSITY OF S'PORE,retail_fnb,rent,10912.50
+BEDOK RESERVOIR,retail_shop,rent,6600.00
+BEDOK SOUTH,retail_fnb,rent,4500.00
+BEDOK SOUTH,retail_shop,rent,8300.00
+BEDOK SOUTH,retail_shop,sale,3200000.00
+BENCOOLEN,generic_office,sale,1100000.00
+BENCOOLEN,generic_retail,rent,2700000.00
+BENCOOLEN,retail_mall_shop,sale,1700000.00
+BENCOOLEN,retail_shop,rent,2900.00
+BENCOOLEN,retail_shop,sale,1080000.00
+BENDEMEER,generic_retail,rent,6000.00
+BISHAN EAST,retail_shop,rent,5800.00
+BOAT QUAY,generic_office,rent,6272.86
+BOAT QUAY,generic_retail,rent,15800.00
+BOAT QUAY,retail_fnb,rent,105420.00
+BOAT QUAY,retail_shop,rent,7934.67
+BOULEVARD,generic_office,rent,3909.41
+BOULEVARD,generic_retail,rent,9444.00
+BOULEVARD,retail_fnb,rent,15102.67
+BOULEVARD,retail_mall_shop,rent,3500.00
+BOULEVARD,retail_mall_shop,sale,2300000.00
+BOULEVARD,retail_medical_suite,rent,6000.00
+BOULEVARD,retail_shop,rent,8677.78
+BOULEVARD,retail_shop,sale,4666666.67
+BRADDELL,general_industrial,rent,4891.50
+BRADDELL,generic_office,rent,11213.50
+BRADDELL,warehouse,rent,6194.00
+BRAS BASAH,generic_office,rent,29407.67
+BRAS BASAH,retail_fnb,rent,41340.00
+BRAS BASAH,retail_shop,rent,28416.00
+BUGIS,generic_office,rent,2612.00
+BUGIS,generic_retail,sale,880000.00
+BUGIS,retail_fnb,rent,30500.00
+BUGIS,retail_shop,rent,17500.00
+BUGIS,retail_shop,sale,1380000.00
+BUKIT BATOK SOUTH,fnb,rent,4700.00
+BUKIT BATOK SOUTH,general_industrial,rent,14180.00
+BUKIT BATOK SOUTH,generic_office,rent,2700.00
+BUKIT BATOK SOUTH,generic_office,sale,620000.00
+BUKIT BATOK SOUTH,showroom,rent,15000.00
+BUKIT BATOK SOUTH,warehouse,rent,11605.00
+BUKIT HO SWEE,generic_office,rent,68321.00
+BUKIT HO SWEE,retail_shop,rent,1900.00
+BUKIT HO SWEE,retail_shop,sale,680000.00
+BUKIT MERAH,factory,rent,6530.00
+BUKIT MERAH,general_industrial,rent,4933.33
+BUKIT MERAH,generic_office,rent,3744.60
+BUKIT MERAH,retail_shop,rent,9900.00
+BUKIT MERAH,retail_shop,sale,2680000.00
+BUKIT MERAH,showroom,rent,15000.00
+CECIL,generic_office,rent,25822.05
+CECIL,generic_office,sale,9870000.00
+CECIL,retail_fnb,rent,22815.00
+CENTRAL SUBZONE,generic_office,rent,2358.00
+CENTRAL SUBZONE,retail_fnb,rent,50000.00
+CHANGI POINT,retail_shop,rent,6650.00
 CHANGI WEST,factory,rent,85800.00
 CHANGI WEST,generic_office,rent,9106.00
-OXLEY,retail_shop,rent,15500.00
-ONE NORTH,ebiz,rent,9159.00
-BRADDELL,general_industrial,rent,4891.50
-JOO SENG,fnb,sale,3336000.00
-JOO SENG,ebiz,rent,8750.00
-YUNNAN,retail_shop,rent,15000.00
-TELOK BLANGAH RISE,retail_shop,rent,7800.00
-TELOK BLANGAH WAY,retail_shop,sale,2000000.00
-ALJUNIED,showroom,rent,10800.00
-TAMAN JURONG,general_industrial,rent,15000.00
-TOH GUAN,general_industrial,rent,86000.00
-TOH GUAN,ebiz,rent,21500.00
-SENNETT,generic_office,rent,39500.00
-TELOK BLANGAH DRIVE,generic_office,rent,36000.00
+CHANGI WEST,warehouse,rent,8277.50
+CHATSWORTH,generic_office,rent,9586.00
+CHATSWORTH,retail_shop,rent,30000.00
+CHENG SAN,retail_shop,sale,2750000.00
+CHINA SQUARE,generic_office,rent,3013.67
+CHINA SQUARE,retail_shop,rent,11248.00
+CHINATOWN,generic_office,rent,6220.00
+CHINATOWN,retail_fnb,rent,27045.29
+CHINATOWN,retail_shop,rent,13411.56
+CHINATOWN,retail_shop,sale,42400000.00
+CHIN BEE,factory,rent,62649.00
+CHONG BOON,retail_shop,rent,7650.00
+CHONG BOON,warehouse,rent,9805.00
+CITY HALL,generic_office,rent,9279.00
+CITY HALL,generic_office,sale,6800000.00
+CITY HALL,retail_fnb,rent,16870.00
+CITY HALL,retail_mall_shop,sale,910000.00
+CITY HALL,retail_shop,rent,8000.00
+CITY HALL,retail_shop,sale,980000.00
+CITY TERMINALS,warehouse,rent,6879.50
+CLARKE QUAY,generic_office,rent,3150.00
+CLARKE QUAY,generic_office,sale,8313000.00
+CLARKE QUAY,retail_fnb,rent,4140.67
+CLARKE QUAY,retail_shop,rent,3476.00
+CLEMENTI CENTRAL,retail_shop,rent,7985.71
+CLEMENTI NORTH,retail_shop,rent,2680.00
+CLIFFORD PIER,generic_retail,rent,2891.33
+CORONATION ROAD,retail_shop,rent,10000.00
+CRAWFORD,generic_office,rent,2244.00
+CRAWFORD,generic_retail,rent,5049.00
+CRAWFORD,retail_fnb,rent,18888.00
+CRAWFORD,retail_shop,rent,3497.00
+CRAWFORD,retail_shop,sale,1475000.00
+DEFU INDUSTRIAL PARK,warehouse,rent,4372.50
+DEPOT ROAD,generic_retail,sale,3200000.00
+DHOBY GHAUT,generic_office,rent,100450.00
+EVERTON PARK,generic_office,rent,1608.00
+EVERTON PARK,retail_fnb,rent,9250.00
+EVERTON PARK,retail_shop,rent,3300.00
+FARRER PARK,generic_office,rent,4500.00
+FARRER PARK,retail_shop,sale,8300000.00
+FERNVALE,generic_retail,rent,3000.00
+FORT CANNING,generic_office,rent,5100.00
+FRANKEL,retail_fnb,rent,7579.00
+FRANKEL,retail_shop,rent,7750.00
+GALI BATU,factory,rent,4000.00
+GALI BATU,factory,sale,2363386.00
+GALI BATU,fnb,rent,5500.00
+GALI BATU,general_industrial,rent,3650.00
+GALI BATU,showroom,rent,3200.00
+GALI BATU,warehouse,rent,820.00
+GEYLANG EAST,factory,rent,3643.67
+GEYLANG EAST,generic_office,rent,4329.75
+GEYLANG EAST,generic_office,sale,1196666.67
+GEYLANG EAST,retail_fnb,rent,8858.67
+GEYLANG EAST,retail_shop,rent,18380.00
+GEYLANG EAST,retail_shop,sale,1480000.00
+GUILIN,general_industrial,rent,1100.00
+GUL BASIN,general_industrial,sale,18000000.00
+GUL CIRCLE,warehouse,rent,77500.00
+HILLVIEW,fnb,sale,2500.00
+HILLVIEW,general_industrial,rent,6800.00
+HILLVIEW,retail_fnb,rent,27000.00
 HOLLAND DRIVE,general_industrial,rent,28800.00
-PASIR PANJANG 1,generic_office,rent,29500.00
+HOLLAND DRIVE,generic_office,rent,67500.00
 HOLLAND DRIVE,retail_shop,rent,29000.00
+HOLLAND DRIVE,retail_shop,sale,19000000.00
+HONG KAH,retail_shop,rent,4625.00
+INSTITUTION HILL,generic_office,rent,7500.00
+INSTITUTION HILL,retail_fnb,rent,16000.00
+INSTITUTION HILL,retail_shop,rent,7000.00
+INTERNATIONAL BUSINESS PARK,generic_office,rent,28600.67
+JOO KOON,dormitory,rent,600.00
+JOO KOON,general_industrial,rent,26000.00
+JOO SENG,ebiz,rent,8750.00
+JOO SENG,factory,rent,6328.57
+JOO SENG,factory,sale,1688888.00
+JOO SENG,fnb,sale,3336000.00
+JOO SENG,general_industrial,rent,11038.67
+JOO SENG,general_industrial,sale,2994500.00
+JOO SENG,generic_office,rent,9275.00
+JOO SENG,retail_shop,rent,6500.00
+JOO SENG,warehouse,rent,7894.50
+JURONG GATEWAY,generic_office,rent,5500.00
+JURONG GATEWAY,generic_office,sale,8000000.00
+JURONG RIVER,factory,rent,13800.00
+JURONG RIVER,warehouse,rent,26233.33
+KAKI BUKIT,dormitory,rent,650.00
+KAKI BUKIT,factory,rent,3298.25
+KAKI BUKIT,factory,sale,800000.00
+KAKI BUKIT,general_industrial,rent,485.00
+KAKI BUKIT,general_industrial,sale,1790000.00
+KAKI BUKIT,generic_office,rent,1100.00
+KAKI BUKIT,retail_shop,rent,4947.50
+KAKI BUKIT,retail_shop,sale,5600000.00
+KALLANG BAHRU,factory,rent,6228.00
+KALLANG BAHRU,general_industrial,rent,38620.80
+KALLANG BAHRU,general_industrial,sale,1200000.00
+KALLANG BAHRU,generic_office,rent,15563.91
+KALLANG BAHRU,warehouse,rent,7043.50
+KALLANG WAY,factory,rent,3609.20
+KALLANG WAY,general_industrial,rent,4502.44
+KALLANG WAY,generic_office,rent,15375.00
+KALLANG WAY,showroom,rent,14760.00
+KALLANG WAY,warehouse,rent,7096.33
+KAMPONG GLAM,generic_office,rent,18888.00
+KAMPONG GLAM,retail_shop,rent,8299.71
+KAMPONG GLAM,retail_shop,sale,9653333.33
+KAMPONG JAVA,retail_shop,rent,3000.00
+KAMPONG TIONG BAHRU,generic_office,rent,8000.00
+KAMPONG TIONG BAHRU,retail_fnb,rent,16800.00
+KAMPONG TIONG BAHRU,retail_fnb,sale,10800000.00
+KAMPONG UBI,factory,rent,17200.00
+KAMPONG UBI,general_industrial,rent,5390.75
+KAMPONG UBI,generic_office,rent,2807.00
+KAMPONG UBI,retail_shop,sale,2800000.00
+KAMPONG UBI,warehouse,rent,4683.00
+KAMPONG UBI,warehouse,sale,1250000.00
+KATONG,retail_shop,rent,5500.00
+KATONG,retail_shop,sale,590000.00
+KEBUN BAHRU,retail_shop,sale,2300000.00
+KEMBANGAN,factory,rent,8266.67
+KEMBANGAN,factory,sale,1880000.00
+KEMBANGAN,general_industrial,rent,4000.00
+KENT RIDGE,generic_office,rent,17703.00
+KENT RIDGE,generic_retail,sale,5498888.00
+KIAN TECK,general_industrial,rent,13000.00
+KIAN TECK,general_industrial,sale,580000.00
+KRANJI,factory,rent,4490.00
+KRANJI,general_industrial,rent,3300.00
+LAVENDER,generic_office,rent,4935.20
+LAVENDER,retail_fnb,rent,53163.00
+LAVENDER,retail_shop,rent,8162.22
+LAVENDER,retail_shop,sale,8250000.00
+LEONIE HILL,generic_retail,rent,9000.00
+LITTLE INDIA,retail_shop,rent,1600.00
+LITTLE INDIA,retail_shop,sale,7880000.00
+LIU FANG,factory,rent,2900.00
+LORONG 8 TOA PAYOH,generic_office,rent,66000.00
+LORONG AH SOO,generic_office,rent,1800.00
+LORONG AH SOO,retail_shop,rent,1500.00
+LORONG CHUAN,general_industrial,rent,28105.33
+LORONG CHUAN,generic_office,rent,10788.00
+LORONG CHUAN,retail_shop,rent,13425.00
+LOYANG WEST,factory,rent,8807.00
+LOYANG WEST,factory,sale,6000000.00
+LOYANG WEST,general_industrial,rent,4979.50
+LOYANG WEST,general_industrial,sale,1664444.00
+LOYANG WEST,generic_office,rent,18000.00
+LOYANG WEST,generic_office,sale,6000000.00
+MACKENZIE,generic_office,rent,4099.62
+MACPHERSON,retail_shop,rent,6165.00
+MACPHERSON,retail_shop,sale,1880000.00
+MARINA CENTRE,generic_office,rent,35729.36
+MARINA CENTRE,generic_office,sale,7418950.00
+MARINE PARADE,retail_shop,rent,2100.00
+MARINE PARADE,retail_shop,sale,2190375.00
+MARITIME SQUARE,generic_office,rent,3950.00
+MARITIME SQUARE,generic_office,sale,758000.00
+MARYMOUNT,factory,rent,900.00
+MARYMOUNT,general_industrial,rent,950.00
+MARYMOUNT,general_industrial,sale,2600000.00
+MARYMOUNT,warehouse,rent,30000.00
+MEI CHIN,retail_shop,rent,5000.00
+MOULMEIN,generic_office,rent,9591.67
+MOULMEIN,generic_office,sale,2000000.00
+MOULMEIN,retail_medical_suite,rent,11200.00
+MOUNTBATTEN,dormitory,rent,650.00
+MOUNT EMILY,retail_shop,rent,12800.00
+NATIONAL UNIVERSITY OF S'PORE,retail_fnb,rent,10912.50
+NATURE RESERVE,retail_fnb,rent,12770.00
+NICOLL,generic_office,rent,24520.00
+NORTHLAND,factory,rent,32500.00
+NORTHLAND,general_industrial,rent,36000.00
+NORTHLAND,general_industrial,sale,800000.00
+NORTHLAND,generic_office,rent,41500.00
+NORTHLAND,warehouse,rent,25546.67
+ONE NORTH,ebiz,rent,9159.00
+ONE NORTH,generic_office,rent,1894.00
+OXLEY,generic_office,rent,4800.00
+OXLEY,retail_shop,rent,15500.00
+PANDAN,factory,rent,9991.29
+PANDAN,general_industrial,rent,1945.00
+PANDAN,generic_office,rent,2250.00
+PANDAN,warehouse,rent,50000.00
+PANG SUA,dormitory,rent,590.00
+PANG SUA,factory,rent,2169.00
+PASIR PANJANG 1,generic_office,rent,29500.00
+PASIR PANJANG 1,retail_fnb,rent,4800.00
+PASIR PANJANG 1,retail_shop,rent,4566.67
+PASIR PANJANG 1,retail_shop,sale,1950000.00
+PASIR PANJANG 2,factory,rent,5998.00
+PASIR PANJANG 2,generic_office,rent,18142.12
+PEARL'S HILL,generic_office,rent,13087.08
+PEARL'S HILL,retail_medical_suite,rent,5680.00
+PEARL'S HILL,retail_shop,rent,3800.00
+PEI CHUN,retail_shop,rent,2750.00
+PENJURU CRESCENT,general_industrial,rent,28000.00
+PENJURU CRESCENT,warehouse,rent,108000.00
+PEOPLE'S PARK,generic_retail,rent,2900.00
+PEOPLE'S PARK,retail_shop,sale,2800000.00
+PHILLIP,generic_office,rent,25000.00
+PULAU PUNGGOL TIMOR,dormitory,rent,650.00
+PUNGGOL FIELD,retail_fnb,rent,9600.00
+QUEENSWAY,retail_shop,rent,1800.00
+QUEENSWAY,retail_shop,sale,950000.00
+RAFFLES PLACE,generic_office,rent,25721.43
+RAFFLES PLACE,generic_retail,rent,54686.00
+RESERVOIR VIEW,dormitory,rent,590.00
+ROBERTSON QUAY,retail_fnb,rent,21000.00
+ROBERTSON QUAY,retail_shop,rent,30000.00
+ROBERTSON QUAY,retail_shop,sale,798000.00
+SELEGIE,generic_office,rent,2100.00
+SELEGIE,generic_office,sale,2784000.00
+SELEGIE,retail_shop,rent,2200.00
+SELETAR AEROSPACE PARK,generic_office,rent,5000.00
+SEMBAWANG CENTRAL,factory,rent,4170.00
+SEMBAWANG CENTRAL,general_industrial,rent,4000.00
+SEMBAWANG CENTRAL,general_industrial,sale,490000.00
+SEMBAWANG NORTH,factory,rent,13655.67
+SEMBAWANG NORTH,general_industrial,rent,3800.00
+SEMBAWANG SPRINGS,retail_shop,rent,19000.00
+SENNETT,generic_office,rent,39500.00
+SENNETT,generic_retail,sale,3856000.00
+SENNETT,retail_fnb,sale,2460000.00
+SENNETT,retail_shop,rent,16000.00
+SENOKO NORTH,factory,rent,120000.00
+SENOKO NORTH,factory,sale,4600000.00
+SENOKO SOUTH,factory,rent,600.00
+SENOKO SOUTH,warehouse,rent,6200.00
+SENOKO WEST,factory,rent,5200.00
+SENOKO WEST,general_industrial,rent,2566.67
+SENOKO WEST,generic_office,rent,1000.00
+SENOKO WEST,warehouse,rent,2600.00
+SERANGOON GARDEN,generic_retail,rent,11862.50
+SERANGOON NORTH,factory,rent,19362.50
+SERANGOON NORTH,general_industrial,rent,41780.40
+SERANGOON NORTH,generic_office,rent,2600.00
+SERANGOON NORTH,generic_office,sale,750000.00
+SERANGOON NORTH IND ESTATE,factory,rent,6386.50
+SERANGOON NORTH IND ESTATE,general_industrial,rent,4748.50
+SHANGRI-LA,retail_shop,rent,4033.00
+SIMEI,warehouse,rent,24000.00
+SOMERSET,generic_office,rent,45272.17
+SOMERSET,retail_fnb,rent,7396.00
+SOMERSET,retail_shop,rent,5808.33
+SOMERSET,retail_shop,sale,7500000.00
+SUNGEI ROAD,generic_office,rent,6400.00
+SUNGEI ROAD,generic_office,sale,1680000.00
+SUNGEI ROAD,retail_shop,sale,1200000.00
+TAGORE,dormitory,rent,650.00
+TAGORE,factory,rent,6800.00
+TAI SENG,factory,rent,18987.50
+TAI SENG,general_industrial,sale,2199999.00
+TAI SENG,generic_office,rent,57499.50
+TAI SENG,retail_shop,rent,1999.00
+TAI SENG,retail_shop,sale,2725000.00
+TAMAN JURONG,general_industrial,rent,15000.00
+TAMPINES EAST,generic_office,rent,9169.33
+TAMPINES EAST,retail_shop,rent,13399.50
+TAMPINES NORTH,general_industrial,rent,5765.00
+TAMPINES WEST,factory,rent,12000.00
+TAMPINES WEST,retail_shop,rent,18000.00
+TANJONG PAGAR,generic_office,sale,1490000.00
+TEBAN GARDENS,retail_shop,sale,2100000.00
+TECK WHYE,retail_shop,rent,4000.00
+TECK WHYE,retail_shop,sale,3900000.00
+TELOK BLANGAH DRIVE,generic_office,rent,36000.00
+TELOK BLANGAH DRIVE,retail_shop,sale,2700000.00
+TELOK BLANGAH RISE,retail_shop,rent,7800.00
+TELOK BLANGAH RISE,retail_shop,sale,1849999.00
+TELOK BLANGAH WAY,retail_shop,rent,3000.00
+TELOK BLANGAH WAY,retail_shop,sale,2000000.00
+TIONG BAHRU STATION,generic_office,rent,28234.00
+TIONG BAHRU STATION,retail_shop,rent,4000.00
+TOA PAYOH CENTRAL,generic_office,rent,19500.00
+TOA PAYOH CENTRAL,retail_shop,rent,7833.33
+TOA PAYOH WEST,generic_office,rent,23268.00
+TOH GUAN,ebiz,rent,21500.00
+TOH GUAN,general_industrial,rent,86000.00
+TOH TUCK,factory,rent,9966.67
+TOH TUCK,general_industrial,rent,600.00
+TOH TUCK,generic_office,rent,10000.00
+TOH TUCK,warehouse,rent,33100.00
+TRAFALGAR,retail_shop,rent,6851.00
+TUAS BAY,factory,rent,73628.00
+TUAS BAY,general_industrial,rent,84506.00
+TUAS BAY,warehouse,rent,639437.50
+TUAS VIEW,dormitory,rent,500.00
+TUAS VIEW,dormitory,sale,25000000.00
+TUAS VIEW,factory,rent,10375.00
+TUAS VIEW,factory,sale,750000.00
+TUAS VIEW,general_industrial,rent,12600.00
+TUAS VIEW,general_industrial,sale,1300000.00
+TUAS VIEW,warehouse,sale,730000.00
+TUAS VIEW EXTENSION,dormitory,rent,460.00
+TUAS VIEW EXTENSION,factory,rent,35137.00
+TUAS VIEW EXTENSION,general_industrial,rent,43000.00
+TUAS VIEW EXTENSION,warehouse,rent,47710.50
+TUKANG,factory,rent,15000.00
+TUKANG,warehouse,rent,39000.00
+UPPER THOMSON,fnb,sale,4980000.00
+UPPER THOMSON,general_industrial,sale,7500000.00
+UPPER THOMSON,generic_office,rent,1800.00
+UPPER THOMSON,generic_retail,sale,1200000.00
+UPPER THOMSON,retail_fnb,sale,1700000.00
+UPPER THOMSON,retail_shop,rent,10770.50
+UPPER THOMSON,retail_shop,sale,1700000.00
+VICTORIA,generic_office,rent,12447.83
+VICTORIA,generic_office,sale,4487250.00
+VICTORIA,retail_fnb,rent,72400.00
+VICTORIA,retail_fnb,sale,3450000.00
+VICTORIA,retail_shop,sale,1327000.00
+WOODGROVE,retail_shop,rent,3000.00
+WOODLANDS EAST,factory,rent,50000.00
+WOODLANDS EAST,general_industrial,rent,4560.00
+WOODLANDS EAST,retail_shop,rent,750.00
+WOODLANDS REGIONAL CENTRE,generic_office,rent,18325.12
+WOODLANDS REGIONAL CENTRE,generic_office,sale,2341330.00
+WOODLANDS REGIONAL CENTRE,warehouse,rent,11950.00
+XILIN,dormitory,rent,650.00
+XILIN,ebiz,rent,19421.00
+XILIN,factory,rent,13898.00
+XILIN,generic_office,rent,29358.91
+XILIN,retail_fnb,rent,16756.00
+XILIN,warehouse,rent,13091.00
+YIO CHU KANG,factory,rent,61840.00
+YIO CHU KANG WEST,generic_office,sale,1000000.00
+YIO CHU KANG WEST,retail_shop,rent,2800.00
+YISHUN EAST,retail_shop,rent,6500.00
+YISHUN SOUTH,retail_shop,rent,12000.00
+YUHUA EAST,retail_shop,rent,1950.00
+YUHUA WEST,retail_shop,rent,5150.00
+YUHUA WEST,retail_shop,sale,2900000.00
+YUNNAN,retail_shop,rent,15000.00
