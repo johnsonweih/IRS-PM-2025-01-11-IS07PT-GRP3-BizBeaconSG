@@ -113,13 +113,13 @@ The backend is a Python Flask server that interfaces with OpenAI's API. To set i
    OPENAI_API_KEY=your_openai_api_key_here
 
    # Neo4j credentials
-   NEO4J_URI=neo4j+s:<your_neo4j_uri_here>
+   NEO4J_URI=neo4j+s:your_neo4j_uri_here
    NEO4J_USERNAME=neo4j
-   NEO4J_PASSWORD=<your_neo4j_pwd_here>
+   NEO4J_PASSWORD=your_neo4j_pwd_here
 
    # Supabase credentials
-   SUPABASE_URL=<your_supabase_url_here>
-   SUPABASE_KEY=<your_supabase_key_here>
+   SUPABASE_URL=your_supabase_url_here
+   SUPABASE_KEY=your_supabase_key_here
    ```
 
 5. Start the server:
