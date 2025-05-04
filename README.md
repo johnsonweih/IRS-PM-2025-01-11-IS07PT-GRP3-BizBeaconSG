@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-### BizBeacon SG - An Intelligent Singapore Business Advisor
+### BizBeacon SG - An Intelligent Singapore Business Location Advisor
 
 <img src="Miscellaneous/chatbot-screenshot.png"
      style="float: left; margin-right: 0px;" />
